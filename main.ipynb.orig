@@ -185,19 +185,16 @@
   },
   {
    "cell_type": "markdown",
-   "metadata": {
-    "collapsed": false
-   },
    "source": [
     "### State Space Search Class"
-   ]
+   ],
+   "metadata": {
+    "collapsed": false
+   }
   },
   {
    "cell_type": "code",
    "execution_count": 296,
-   "metadata": {
-    "collapsed": false
-   },
    "outputs": [],
    "source": [
     "class Node:\n",
@@ -248,50 +245,24 @@
     "                return\n",
     "            else:\n",
     "                closed_node_list.put(current_node)\n"
-   ]
+   ],
+   "metadata": {
+    "collapsed": false
+   }
   },
   {
    "cell_type": "markdown",
-   "metadata": {
-    "collapsed": false
-   },
    "source": [
     "### Load Input File"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 402,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [],
-   "source": [
-    "import numpy as np"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [
-    {
-     "ename": "TypeError",
-     "evalue": "'list' object is not callable",
-     "output_type": "error",
-     "traceback": [
-      "\u001B[0;31m---------------------------------------------------------------------------\u001B[0m",
-      "\u001B[0;31mTypeError\u001B[0m                                 Traceback (most recent call last)",
-      "Cell \u001B[0;32mIn[404], line 13\u001B[0m\n\u001B[1;32m     10\u001B[0m             puzzles_temp\u001B[38;5;241m.\u001B[39mappend(puzzle_state)\n\u001B[1;32m     11\u001B[0m     \u001B[38;5;28;01mreturn\u001B[39;00m puzzles_temp\n\u001B[0;32m---> 13\u001B[0m puzzles \u001B[38;5;241m=\u001B[39m \u001B[43mparse_input_file\u001B[49m\u001B[43m(\u001B[49m\u001B[43mPATH_TO_INPUT_FILE\u001B[49m\u001B[43m)\u001B[49m\n\u001B[1;32m     15\u001B[0m \u001B[38;5;28;01mfor\u001B[39;00m puzzle \u001B[38;5;129;01min\u001B[39;00m puzzles:\n\u001B[1;32m     16\u001B[0m     \u001B[38;5;28mprint\u001B[39m(puzzle\u001B[38;5;241m.\u001B[39mpuzzle)\n",
-      "Cell \u001B[0;32mIn[404], line 9\u001B[0m, in \u001B[0;36mparse_input_file\u001B[0;34m(path)\u001B[0m\n\u001B[1;32m      7\u001B[0m     \u001B[38;5;28;01mfor\u001B[39;00m line \u001B[38;5;129;01min\u001B[39;00m [line \u001B[38;5;28;01mfor\u001B[39;00m line \u001B[38;5;129;01min\u001B[39;00m lines_nonempty \u001B[38;5;28;01mif\u001B[39;00m line[\u001B[38;5;241m0\u001B[39m] \u001B[38;5;241m!=\u001B[39m \u001B[38;5;124m'\u001B[39m\u001B[38;5;124m#\u001B[39m\u001B[38;5;124m'\u001B[39m]:\n\u001B[1;32m      8\u001B[0m         puzzle_configuration_line \u001B[38;5;241m=\u001B[39m line\u001B[38;5;241m.\u001B[39msplit(\u001B[38;5;124m'\u001B[39m\u001B[38;5;124m \u001B[39m\u001B[38;5;124m'\u001B[39m)\n\u001B[0;32m----> 9\u001B[0m         puzzle_state \u001B[38;5;241m=\u001B[39m \u001B[43mPuzzleState\u001B[49m\u001B[38;5;241;43m.\u001B[39;49m\u001B[43mconstruct_initial_puzzle_state\u001B[49m\u001B[43m(\u001B[49m\u001B[43mpuzzle_configuration_line\u001B[49m\u001B[43m)\u001B[49m\n\u001B[1;32m     10\u001B[0m         puzzles_temp\u001B[38;5;241m.\u001B[39mappend(puzzle_state)\n\u001B[1;32m     11\u001B[0m \u001B[38;5;28;01mreturn\u001B[39;00m puzzles_temp\n",
-      "Cell \u001B[0;32mIn[400], line 9\u001B[0m, in \u001B[0;36mPuzzleState.construct_initial_puzzle_state\u001B[0;34m(cls, puzzle_configuration_line)\u001B[0m\n\u001B[1;32m      7\u001B[0m \u001B[38;5;129m@classmethod\u001B[39m\n\u001B[1;32m      8\u001B[0m \u001B[38;5;28;01mdef\u001B[39;00m \u001B[38;5;21mconstruct_initial_puzzle_state\u001B[39m(\u001B[38;5;28mcls\u001B[39m, puzzle_configuration_line):\n\u001B[0;32m----> 9\u001B[0m     \u001B[38;5;28;01mreturn\u001B[39;00m \u001B[38;5;28mcls\u001B[39m(\u001B[38;5;28;43mcls\u001B[39;49m\u001B[38;5;241;43m.\u001B[39;49m\u001B[43mparse_initial_puzzle\u001B[49m\u001B[43m(\u001B[49m\u001B[43mpuzzle_configuration_line\u001B[49m\u001B[43m[\u001B[49m\u001B[38;5;241;43m0\u001B[39;49m\u001B[43m]\u001B[49m\u001B[43m)\u001B[49m,\n\u001B[1;32m     10\u001B[0m                \u001B[38;5;28mcls\u001B[39m\u001B[38;5;241m.\u001B[39mparse_initial_car_fuels(puzzle_configuration_line))\n",
-      "Cell \u001B[0;32mIn[400], line 14\u001B[0m, in \u001B[0;36mPuzzleState.parse_initial_puzzle\u001B[0;34m(puzzle_configuration)\u001B[0m\n\u001B[1;32m     12\u001B[0m \u001B[38;5;129m@staticmethod\u001B[39m\n\u001B[1;32m     13\u001B[0m \u001B[38;5;28;01mdef\u001B[39;00m \u001B[38;5;21mparse_initial_puzzle\u001B[39m(puzzle_configuration):\n\u001B[0;32m---> 14\u001B[0m     array_line_input \u001B[38;5;241m=\u001B[39m np\u001B[38;5;241m.\u001B[39marray(\u001B[38;5;28;43mlist\u001B[39;49m\u001B[43m(\u001B[49m\u001B[43mpuzzle_configuration\u001B[49m\u001B[43m)\u001B[49m)\n\u001B[1;32m     15\u001B[0m     initial_puzzle \u001B[38;5;241m=\u001B[39m np\u001B[38;5;241m.\u001B[39mreshape(array_line_input, (\u001B[38;5;241m6\u001B[39m, \u001B[38;5;241m6\u001B[39m))\n\u001B[1;32m     16\u001B[0m     \u001B[38;5;28;01mreturn\u001B[39;00m initial_puzzle\n",
-      "\u001B[0;31mTypeError\u001B[0m: 'list' object is not callable"
-     ]
-    }
    ],
+   "metadata": {
+    "collapsed": false
+   }
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 297,
+   "outputs": [],
    "source": [
     "PATH_TO_INPUT_FILE = '../Sample/sample-input.txt'\n",
     "\n",
@@ -308,7 +279,10 @@
     "puzzlestates = parse_input_file(PATH_TO_INPUT_FILE)\n",
     "# for puzzlestate in puzzlestates:\n",
     "#     puzzlestate.get_children_puzzlestates()"
-   ]
+   ],
+   "metadata": {
+    "collapsed": false
+   }
   },
   {
    "cell_type": "markdown",
@@ -357,10 +331,8 @@
    },
    "outputs": [],
    "source": [
-    "LAMBDA = 4\n",
-    "\n",
     "def h3(puzzle):\n",
-    "    return h1(puzzle) * LAMBDA"
+    "    return h1(puzzle) * 4"
    ]
   },
   {
@@ -371,100 +343,9 @@
    },
    "outputs": [],
    "source": [
-    "def temp_board(puzzle):\n",
+    "def board(puzzle):\n",
     "    for element in puzzle:\n",
     "        print(*element)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {
-    "collapsed": false,
-    "pycharm": {
-     "name": "#%%\n"
-    }
-   },
-   "outputs": [],
-   "source": [
-    "def line_temp_board(puzzle):\n",
-    "    for element in puzzle:\n",
-    "        print(*element, end='', sep='')"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {
-    "collapsed": false,
-    "pycharm": {
-     "name": "#%%\n"
-    }
-   },
-   "outputs": [],
-   "source": [
-    "def generate_puzzle():\n",
-    "    f = open(\"input.txt\", \"w\")\n",
-    "\n",
-    "    for x in range(50):\n",
-    "        HORIZONTAL_IDENTIFIER = 0\n",
-    "        temp_board = '....................................'\n",
-    "\n",
-    "        #Inserting Ambulance\n",
-    "        a_index = np.random.randint(0,5)\n",
-    "        temp_board = temp_board[: 12 + a_index] + 'AA' + temp_board[a_index + 14 :]\n",
-    "\n",
-    "        #Inserting Cars\n",
-    "        car_names = ['B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M']\n",
-    "        number_of_cars = np.random.randint(6,13)\n",
-    "        failures = 0\n",
-    "        cars_inserted = 1\n",
-    "\n",
-    "        while cars_inserted <= number_of_cars:\n",
-    "            if failures > 10:\n",
-    "                break\n",
-    "            car_length = np.random.randint(2,4)\n",
-    "            car_index = np.random.randint(0, 7 - car_length)\n",
-    "            orientation = np.random.randint(0,2)\n",
-    "            car_line_index = np.random.randint(0,6)\n",
-    "            car_name = car_names[cars_inserted - 1]\n",
-    "\n",
-    "            if orientation == HORIZONTAL_IDENTIFIER:\n",
-    "                if not temp_board[6 * car_line_index + car_index : 6 * car_line_index + car_index + car_length].isupper():\n",
-    "                    temp_board = temp_board[: 6 * car_line_index + car_index] + (car_name * car_length) + temp_board[6 * car_line_index + car_index + car_length :]\n",
-    "                    cars_inserted += 1\n",
-    "                else:\n",
-    "                    failures += 1\n",
-    "            else:\n",
-    "                if not (temp_board[car_line_index + 6 * car_index] + temp_board[car_line_index + (6 * car_index) + 6] + (temp_board[car_line_index + (6 * car_index) + 12] if car_length == 3  else '')).isupper():\n",
-    "                    temp_board = temp_board[: car_line_index + (6 * car_index)] + car_name + temp_board[car_line_index + 6 * car_index + 1 : car_line_index + 6 * car_index + 6] + car_name + temp_board[car_line_index + 6 * car_index + 7 : car_line_index + 6 * car_index + 12] + (car_name if car_length == 3  else '') + temp_board[ (car_line_index + 6 * car_index + 13) if car_length == 3 else (car_line_index + 6 * car_index + 12) :]\n",
-    "                    cars_inserted += 1\n",
-    "                else:\n",
-    "                    failures += 1\n",
-    "\n",
-    "        #Giving cars fuel\n",
-    "        has_random_amount = np.random.randint(0, cars_inserted/2)\n",
-    "        for y in range(has_random_amount):\n",
-    "            temp_board += \" \" + str(car_names[np.random.randint(0, cars_inserted)]) + str(np.random.randint(0, 101))\n",
-    "\n",
-    "        print(temp_board)\n",
-    "        f.write(temp_board + \"\\n\")\n",
-    "\n",
-    "    f.close()"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {
-    "collapsed": false,
-    "pycharm": {
-     "name": "#%%\n"
-    }
-   },
-   "outputs": [],
-   "source": [
-    "generate_puzzle()"
    ]
   }
  ],

@@ -1,0 +1,5 @@
+0 0 0 ...FFF..BBB..AA.........DDDGG....EEE B9 F6
+0 0 0 ..FFF...BBB..AA.........DDDGG....EEE B9 F5
+0 0 0 FFF.....BBB..AA.........DDDGG....EEE B9 F3
+0 0 0 ...FFF.BBB...AA.........DDDGG....EEE B8 F6
+0 0 0 ...FFF..BBB.....AA......DDDGG....EEE A97 B9 F6

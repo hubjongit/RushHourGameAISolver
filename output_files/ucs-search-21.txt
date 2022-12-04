@@ -1,0 +1,125 @@
+0 0 0 ..DDD.FFHEEEAAH.CC..GG...BB.........
+1 1 0 .DDD..FFHEEEAAH.....GG...BB......... D99
+1 1 0 ...DDDFFHEEEAAH.....GG...BB......... D99
+1 1 0 ..DDD.FFHEEEAAH.......GG.BB......... G98
+1 1 0 ..DDD.FFHEEEAAH.....GG......BB...... B97
+1 1 0 ..DDD.FFHEEEAAH......GG..BB......... G99
+1 1 0 DDD...FFHEEEAAH.....GG...BB......... D98
+1 1 0 ..DDD.FFHEEEAAH...GG.....BB......... G98
+1 1 0 ..DDD.FFHEEEAAH.....GG.....BB....... B98
+1 1 0 ..DDD.FFHEEEAAH....GG....BB......... G99
+1 1 0 ..DDD.FFHEEEAAH.....GG....BB........ B99
+1 1 0 ..DDD.FFHEEEAAH.....GG..BB.......... B99
+2 2 0 .DDD..FFHEEEAAH.....GG..BB.......... B99 D99
+2 2 0 .DDD..FFHEEEAAH.....GG......BB...... B97 D99
+2 2 0 ..DDD.FFHEEEAAH.......GG...BB....... B98 G98
+2 2 0 DDD...FFHEEEAAH.....GG......BB...... B97 D98
+2 2 0 ..DDD.FFHEEEAAH....GG...BB.......... B99 G99
+2 2 0 ..DDD.FFHEEEAAH...GG......BB........ B99 G98
+2 2 0 ..DDD.FFHEEEAAH.......GG....BB...... B97 G98
+2 2 0 .DDD..FFHEEEAAH.......GG.BB......... G98 D99
+2 2 0 ..DDD.FFHEEEAAH.......GG..BB........ B99 G98
+2 2 0 ..DDD.FFHEEEAAH.......GGBB.......... B99 G98
+2 2 0 .DDD..FFHEEEAAH......GG..BB......... G99 D99
+2 2 0 ...DDDFFHEEEAAH.....GG......BB...... B97 D99
+2 2 0 ..DDD.FF.EEEAAH.....H.GG.BB......... G98 H99
+2 2 0 DDD...FFHEEEAAH.......GG.BB......... G98 D98
+2 2 0 .DDD..FFHEEEAAH...GG.....BB......... G98 D99
+2 2 0 ...DDDFFHEEEAAH.....GG.....BB....... B98 D99
+2 2 0 ...DDDFFHEEEAAH.....GG....BB........ B99 D99
+2 2 0 .DDD..FFHEEEAAH....GG....BB......... G99 D99
+2 2 0 ...DDDFFHEEEAAH.....GG..BB.......... B99 D99
+2 2 0 ..DDD.FFHEEEAAH......GG....BB....... B98 G99
+2 2 0 ..DDD.FFHEEEAAH....GG.....BB........ B99 G99
+2 2 0 ..HDDDFFHEEEAA......GG...BB......... H99 D99
+2 2 0 ...DDDFFHEEEAAH.......GG.BB......... G98 D99
+2 2 0 ..DDD.FFHEEEAAH......GG.....BB...... B97 G99
+2 2 0 ..DDD.FFHEEEAAH...GG....BB.......... B99 G98
+2 2 0 ..DDD.FF.EEEAAH...GGH....BB......... G98 H99
+2 2 0 ...DDDFFHEEEAAH......GG..BB......... G99 D99
+2 2 0 DDD...FFHEEEAAH.....GG....BB........ B99 D98
+2 2 0 DDD...FFHEEEAAH.....GG..BB.......... B99 D98
+2 2 0 ...DDDFFHEEEAAH...GG.....BB......... G98 D99
+2 2 0 DDD...FFHEEEAAH...GG.....BB......... G98 D98
+2 2 0 DDD...FFHEEEAAH.....GG.....BB....... B98 D98
+2 2 0 ..DDD.FFHEEEAAH....GG......BB....... B98 G99
+2 2 0 DDD...FFHEEEAAH....GG....BB......... G99 D98
+2 2 0 ...DDDFFHEEEAAH....GG....BB......... G99 D99
+2 2 0 ..DDD.FFHEEEAAH......GG...BB........ B99 G99
+2 2 0 ..DDD.FFHEEEAAH......GG.BB.......... B99 G99
+2 2 0 .DDD..FFHEEEAAH.....GG.....BB....... B98 D99
+2 2 0 ..DDD.FF.EEEAAH.....HGG..BB......... G99 H99
+2 2 0 ..DDD.FFHEEEAAH...GG.......BB....... B98 G98
+2 2 0 DDD...FFHEEEAAH......GG..BB......... G99 D98
+2 2 0 .DDD..FFHEEEAAH.....GG....BB........ B99 D99
+2 2 0 ..DDD.FFHEEEAAH...GG........BB...... B97 G98
+2 2 0 ..DDD.FFHEEEAAH....GG.......BB...... B97 G99
+3 3 0 .DDD..FFHEEEAAH.......GGBB.......... B99 G98 D99
+3 3 0 ..DDD.FF.EEEAA........GG..HBB...H... B98 G98 H97
+3 3 0 ..DDD.FF.EEEAAH.....H.GG....BB...... B97 G98 H99
+3 3 0 ..DDD.FF.EEEAA........GG..H.BB..H... B97 G98 H97
+3 3 0 .DDD..FFHEEEAAH...GG.......BB....... B98 G98 D99
+3 3 0 ..DDD.FF.EEEAA....GG......H.BB..H... B97 G98 H97
+3 3 0 ..DDD.FF.EEEAA....GGH.....H.BB...... B97 G98 H98
+3 3 0 ...DDDFFHEEEAAH.......GG....BB...... B97 G98 D99
+3 3 0 .DDD..FFHEEEAAH.......GG....BB...... B97 G98 D99
+3 3 0 ...DDDFFHEEEAAH...GG......BB........ B99 G98 D99
+3 3 0 DDD...FFHEEEAAH...GG......BB........ B99 G98 D98
+3 3 0 DDD...FFHEEEAAH.......GG....BB...... B97 G98 D98
+3 3 0 .DDD..FFHEEEAAH...GG......BB........ B99 G98 D99
+3 3 0 ..DDD.FF.EEEAAH...GGH.....BB........ B99 G98 H99
+3 3 0 DDD...FFHEEEAAH....GG...BB.......... B99 G99 D98
+3 3 0 DDD...FFHEEEAAH......GG.....BB...... B97 G99 D98
+3 3 0 ...DDDFFHEEEAAH....GG...BB.......... B99 G99 D99
+3 3 0 DDD...FFHEEEAAH...GG........BB...... B97 G98 D98
+3 3 0 DDD...FFHEEEAAH....GG.......BB...... B97 G99 D98
+3 3 0 .DDD..FFHEEEAAH.......GG..BB........ B99 G98 D99
+3 3 0 ..DDD.FF.EEEAA........GGBBH.....H... B99 G98 H97
+3 3 0 ...DDDFF.EEEAAH.....H.GG.BB......... G98 H99 D99
+3 3 0 ..DDD.FF.EEEAA......H.GG..HBB....... B98 G98 H98
+3 3 0 ..DDD.FF.EEEAAH.....H.GG...BB....... B98 G98 H99
+3 3 0 ..DDD.FF.EEEAAH.....H.GG..BB........ B99 G98 H99
+3 3 0 ...DDDFFHEEEAAH.......GG...BB....... B98 G98 D99
+3 3 0 ..DDD.FFEEE.AAH.....HGG..BB......... G99 H99 E99
+3 3 0 DDD...FFHEEEAAH.......GG...BB....... B98 G98 D98
+3 3 0 .DDD..FFHEEEAAH......GG....BB....... B98 G99 D99
+3 3 0 ..DDD..FFEEEAAH.....H.GG.BB......... G98 H99 F99
+3 3 0 ..DDD.FF.EEEAAH.....HGG.BB.......... B99 G99 H99
+3 3 0 ..DDD.FFEEE.AAH...GGH....BB......... G98 H99 E99
+3 3 0 .DDD..FFHEEEAAH.......GG...BB....... B98 G98 D99
+3 3 0 ..DDD.FF.EEEAA....GGH...BBH......... B99 G98 H98
+3 3 0 ..DDD.FF.EEEAAH...GGH...BB.......... B99 G98 H99
+3 3 0 .DDD..FFHEEEAAH......GG.....BB...... B97 G99 D99
+3 3 0 ..HDDDFFHEEEAA......GG......BB...... B97 H99 D99
+3 3 0 DDD...FFHEEEAAH...GG....BB.......... B99 G98 D98
+3 3 0 ..DDD.FF.EEEAA......HGG...H.BB...... B97 G99 H98
+3 3 0 .DDD..FFHEEEAAH...GG........BB...... B97 G98 D99
+3 3 0 ..DDD.FF.EEEAAH.....HGG.....BB...... B97 G99 H99
+3 3 0 ..HDDDFFHEEE..AA....GG...BB......... H99 A98 D99
+3 3 0 .DDD..FFHEEEAAH....GG.......BB...... B97 G99 D99
+3 3 0 ..HDDDFFHEEEAA......GG.....BB....... B98 H99 D99
+3 3 0 .DDD..FFHEEEAAH....GG......BB....... B98 G99 D99
+3 3 0 ..HDDDFFHEEE.AA.....GG...BB......... H99 A99 D99
+3 3 0 ..DDD..FFEEEAAH...GGH....BB......... G98 H99 F99
+3 3 0 DDD...FF.EEEAAH.....HGG..BB......... G99 H99 D98
+3 3 0 ..HDDDFFHEEEAA........GG.BB......... G98 H99 D99
+3 3 0 .DDD..FFHEEEAAH......GG.BB.......... B99 G99 D99
+3 3 0 ..HDDDFFHEEEAA.......GG..BB......... G99 H99 D99
+3 3 0 ..HDDDFFHEEEAA....GG.....BB......... G98 H99 D99
+3 3 0 .DDD..FFHEEEAAH...GG....BB.......... B99 G98 D99
+3 3 0 ..HDDDFFHEEEAA......GG....BB........ B99 H99 D99
+3 3 0 ..HDDDFFHEEEAA.....GG....BB......... G99 H99 D99
+3 3 0 ..DDD.FF.EEEAA......HGG...HBB....... B98 G99 H98
+3 3 0 .DDD..FFHEEEAAH....GG...BB.......... B99 G99 D99
+3 3 0 ..DDD.FF.EEEAAH.....HGG....BB....... B98 G99 H99
+3 3 0 DDD...FFHEEEAAH......GG....BB....... B98 G99 D98
+3 3 0 ...DDDFFHEEEAAH......GG.BB.......... B99 G99 D99
+3 3 0 ..HDDDFFHEEEAA......GG..BB.......... B99 H99 D99
+3 3 0 DDD...FFHEEEAAH....GG.....BB........ B99 G99 D98
+3 3 0 ..DDD.FF.EEEAA....GG....BBH.....H... B99 G98 H97
+3 3 0 ...DDDFFHEEEAAH...GG....BB.......... B99 G98 D99
+3 3 0 .DDD..FFHEEEAAH....GG.....BB........ B99 G99 D99
+3 3 0 ..DDD.FF.EEEAA.......GG...HBB...H... B98 G99 H97
+3 3 0 ...DDDFFHEEEAAH......GG...BB........ B99 G99 D99
+3 3 0 ...DDDFFHEEEAAH....GG.....BB........ B99 G99 D99
+3 3 0 ..HDDDFFHEEE....AA..GG...BB......... H99 A96 D99

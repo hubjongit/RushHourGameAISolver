@@ -1,0 +1,63 @@
+1.0 0 1.0 ..DDD.FFHEEEAAH.....GG...BB.........
+1.5 1 0.5 ..DDD.FFHEEEAAH...GG.....BB......... G98
+1.5 1 0.5 ..DDD.FFHEEEAAH......GG..BB......... G99
+1.5 1 0.5 ..DDD.FFHEEEAAH.......GG.BB......... G98
+2.0 1 1.0 ..DDD.FFHEEEAAH.....GG......BB...... B97
+2.0 1 1.0 ...DDDFFHEEEAAH.....GG...BB......... D99
+2.0 1 1.0 .DDD..FFHEEEAAH.....GG...BB......... D99
+2.0 1 1.0 DDD...FFHEEEAAH.....GG...BB......... D98
+2.0 1 1.0 ..DDD.FFHEEEAAH.....GG.....BB....... B98
+2.0 1 1.0 ..DDD.FFHEEEAAH....GG....BB......... G99
+2.0 1 1.0 ..DDD.FFHEEEAAH.....GG....BB........ B99
+2.0 1 1.0 ..DDD.FFHEEEAAH.....GG..BB.......... B99
+2.5 2 0.5 ..DDD.FFHEEEAAH...GG....BB.......... B99 G98
+2.5 2 0.5 ..DDD.FFHEEEAAH...GG........BB...... B97 G98
+2.5 2 0.5 ..DDD.FFHEEEAAH.......GG...BB....... B98 G98
+2.5 2 0.5 ..DDD.FFHEEEAAH.......GG....BB...... B97 G98
+2.5 2 0.5 ..DDD.FFHEEEAAH.......GG..BB........ B99 G98
+2.5 2 0.5 ..DDD.FF.EEEAAH...GGH....BB......... G98 H99
+2.5 2 0.5 ..DDD.FFHEEEAAH.......GGBB.......... B99 G98
+2.5 2 0.5 ..DDD.FF.EEEAAH.....H.GG.BB......... G98 H99
+2.5 2 0.5 ...DDDFFHEEEAAH...GG.....BB......... G98 D99
+2.5 2 0.5 ..DDD.FFHEEEAAH......GG.....BB...... B97 G99
+2.5 2 0.5 ...DDDFFHEEEAAH.......GG.BB......... G98 D99
+2.5 2 0.5 DDD...FFHEEEAAH.......GG.BB......... G98 D98
+2.5 2 0.5 DDD...FFHEEEAAH...GG.....BB......... G98 D98
+2.5 2 0.5 .DDD..FFHEEEAAH.......GG.BB......... G98 D99
+2.5 2 0.5 ..DDD.FFHEEEAAH......GG....BB....... B98 G99
+2.5 2 0.5 .DDD..FFHEEEAAH...GG.....BB......... G98 D99
+2.5 2 0.5 ..DDD.FFHEEEAAH......GG...BB........ B99 G99
+2.5 2 0.5 ..DDD.FFHEEEAAH......GG.BB.......... B99 G99
+2.5 2 0.5 ..DDD.FF.EEEAAH.....HGG..BB......... G99 H99
+2.5 2 0.5 ...DDDFFHEEEAAH......GG..BB......... G99 D99
+2.5 2 0.5 DDD...FFHEEEAAH......GG..BB......... G99 D98
+2.5 2 0.5 .DDD..FFHEEEAAH......GG..BB......... G99 D99
+2.5 2 0.5 ..DDD.FFHEEEAAH...GG.......BB....... B98 G98
+2.5 2 0.5 ..DDD.FFHEEEAAH...GG......BB........ B99 G98
+3.0 2 1.0 ..DDD.FFHEEEAAH....GG.....BB........ B99 G99
+3.0 3 0.0 ..DDD.FF.EEEAA....GG....BBH.....H... B99 G98 H97
+3.0 2 1.0 DDD...FFHEEEAAH.....GG....BB........ B99 D98
+3.0 3 0.0 ..DDD.FF.EEEAA....GG......H.BB..H... B97 G98 H97
+3.0 3 0.0 ..DDD.FF.EEEAA........GG..H.BB..H... B97 G98 H97
+3.0 3 0.0 ..DDD.FF.EEEAA........GG..HBB...H... B98 G98 H97
+3.0 3 0.0 ..DDD.FF.EEEAA........GGBBH.....H... B99 G98 H97
+3.0 3 0.0 ..DDD.FF.EEEAA....GG......HBB...H... B98 G98 H97
+3.0 3 0.0 ..DDD.FF.EEEAA.......GG.BBH.....H... B99 G99 H97
+3.0 2 1.0 ...DDDFFHEEEAAH.....GG.....BB....... B98 D99
+3.0 3 0.0 ..DDD.FF.EEEAA.......GG...HBB...H... B98 G99 H97
+3.0 2 1.0 ..DDD.FFHEEEAAH....GG...BB.......... B99 G99
+3.0 3 0.0 ..DDD.FF.EEEAA.......GG...H.BB..H... B97 G99 H97
+3.0 2 1.0 ..DDD.FFHEEEAAH....GG.......BB...... B97 G99
+3.0 2 1.0 DDD...FFHEEEAAH.....GG..BB.......... B99 D98
+3.0 2 1.0 DDD...FFHEEEAAH....GG....BB......... G99 D98
+3.0 2 1.0 .DDD..FFHEEEAAH.....GG....BB........ B99 D99
+3.0 2 1.0 .DDD..FFHEEEAAH.....GG..BB.......... B99 D99
+3.0 2 1.0 .DDD..FFHEEEAAH....GG....BB......... G99 D99
+3.0 2 1.0 .DDD..FFHEEEAAH.....GG.....BB....... B98 D99
+3.0 2 1.0 ...DDDFFHEEEAAH.....GG....BB........ B99 D99
+3.0 2 1.0 ...DDDFFHEEEAAH.....GG..BB.......... B99 D99
+3.0 2 1.0 ..DDD.FFHEEEAAH....GG......BB....... B98 G99
+3.0 2 1.0 ..HDDDFFHEEEAA......GG...BB......... H99 D99
+3.0 2 1.0 ...DDDFFHEEEAAH....GG....BB......... G99 D99
+3.0 2 1.0 DDD...FFHEEEAAH.....GG.....BB....... B98 D98
+3.0 3 0.0 ..HDDDFFHEEE....AA..GG...BB......... H99 A96 D99

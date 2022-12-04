@@ -1,0 +1,4 @@
+1.0 0 1.0 .D..E..D..E.AA..E..BCG...BCG.F..CG.F C7 H5
+0.5 0 0.5 .D.....D....AA.....BCGE..BCGEF..CGEF C7 E97 H5
+0.0 0 0.0 .D.....D.......AA..BCGE..BCGEF..CGEF C7 E97 A97 H5
+0.0 0 0.0 .D.....D........AA.BCGE..BCGEF..CGEF C7 E97 A96 H5

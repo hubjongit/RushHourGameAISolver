@@ -1,0 +1,6 @@
+1 0 1 .E..C..EBBC..AA.C....F....DF....DF.. B8 G2
+0 0 0 .E.....EBB...AA......FC...DFC...DFC. C97 B8 G2
+0 0 0 .E.....E.BB..AA......FC...DFC...DFC. C97 B7 G2
+0 0 0 .E.....EBB.....AA....FC...DFC...DFC. C97 A98 B8 G2
+0 0 0 .E.....EBB...AA.....DFC...DFC....FC. D99 C97 B8 G2
+0 0 0 .E.....EBB......AA...FC...DFC...DFC. C97 A97 B8 G2

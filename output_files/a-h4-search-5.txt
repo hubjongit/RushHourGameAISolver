@@ -1,0 +1,14 @@
+0.5 0 0.5 GFFF.DGC...D.CAAE.....E.BB..E....... H2
+1.5 1 0.5 GFFF..GC.....CAAE.....EDBB..ED...... D97 H2
+1.5 1 0.5 GFFFEDGC..ED.CAAE.......BB.......... E98 H2
+1.5 1 0.5 GFFF.DGC...D.CAA......E.BB..E.....E. E99 H2
+1.5 1 0.5 .FFF.D.C...DGCAAE.G...E.BB..E....... G98 H2
+1.5 1 0.5 .FFF.DGC...DGCAAE.....E.BB..E....... G99 H2
+1.5 1 0.5 GFFF..GC.....CAAE.....E.BB..ED.....D D96 H2
+1.5 1 0.5 GFFF.DGC..ED.CAAE.....E.BB.......... E99 H2
+1.5 1 0.5 GFFF.DGC...D.CAAE.....E...BBE....... B98 H2
+1.5 1 0.5 GFFF.DGC...D.CAAE.....E..BB.E....... B99 H2
+1.5 1 0.5 G.FFFDGC...D.CAAE.....E.BB..E....... F99 H2
+1.5 1 0.5 GFFF.DG....D.CAAE..C..E.BB..E....... C99 H2
+2.0 1 1.0 GFFF..GC...D.CAAED....E.BB..E....... D99 H2
+2.0 2 0.0 GFFF.DGC...D.C..AA....E.BB..E.....E. E99 A98 H2

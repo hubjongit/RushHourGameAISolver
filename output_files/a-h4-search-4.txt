@@ -1,0 +1,2 @@
+1.0 0 1.0 ......EEE.DD...AA.CC.GGG.FFF...BB... E4
+1.0 1 0.0 ......EEE.DD....AACC.GGG.FFF...BB... A99 E4

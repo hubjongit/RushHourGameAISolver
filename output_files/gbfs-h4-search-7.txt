@@ -1,0 +1,12 @@
+1.5 0 1.5 .E..C..EBBC..AA.C....F....DF....DF.. B8 G2
+0.5 0 0.5 .E..C..EBBC...AAC....F....DF....DF.. A99 B8 G2
+0.5 0 0.5 .E.....EBBC...AAC....FC...DF....DF.. C99 A99 B8 G2
+0.5 0 0.5 ....C...BBC..EAAC..E.F....DF....DF.. A99 B8 E98 G2
+0.5 0 0.5 ....C...BBC...AAC....F...EDF...EDF.. A99 B8 E96 G2
+0.5 0 0.5 .E.....EBBC...AAC...DFC...DF.....F.. D99 C99 A99 B8 G2
+0.5 0 0.5 ........BBC...AAC....FC..EDF...EDF.. C99 A99 B8 E96 G2
+0.5 0 0.5 ....C...BBC..EAAC..EDF....DF.....F.. D99 A99 B8 E98 G2
+0.5 0 0.5 ....C...BBC...AAC...DF...EDF...E.F.. D99 A99 B8 E96 G2
+0.5 0 0.5 .E.....EBB....AA....DFC...DFC....FC. D99 C97 A99 B8 G2
+0.0 0 0.0 .E.....EBB.....AA...DFC...DFC....FC. D99 C97 A98 B8 G2
+0.0 0 0.0 .E.....EBB......AA..DFC...DFC....FC. D99 C97 A97 B8 G2

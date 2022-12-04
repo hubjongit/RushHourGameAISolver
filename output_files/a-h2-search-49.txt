@@ -1,0 +1,7 @@
+0 0 0 G..FFFG.DD..GAA...E.BBB.E.HH........
+1 1 0 G.FFF.G.DD..GAA...E.BBB.E.HH........ F99
+1 1 0 G..FFFG.DD..GAA...EBBB..E.HH........ B99
+1 1 0 G..FFFG...DDGAA...E.BBB.E.HH........ D98
+1 1 0 G..FFFG.DD..GAA.....BBB.E.HH..E..... E99
+1 1 0 G..FFFG..DD.GAA...E.BBB.E.HH........ D99
+1 1 0 G..FFFG.DD..G...AAE.BBB.E.HH........ A97

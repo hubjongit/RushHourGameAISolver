@@ -1,0 +1,14 @@
+0 0 0 ..BBB.CCC.....AA....EE.DFF...D..GG.D D6 G3
+1 1 0 ..BBB.CCC.....AA.D..EE.DFF...D..GG.. D5 G3
+1 1 0 ..BBBDCCC..D..AA.D..EE..FF......GG.. D3 G3
+1 1 0 ..BBB.CCC....AA.....EE.DFF...D..GG.D D6 G3 A99
+1 1 0 ..BBB.CCC.....AA....EE.DFF...DGG...D D6 G1
+1 1 0 ..BBB.CCC.....AA....EE.D...FFD..GG.D D6 G3 F97
+1 1 0 ..BBB.CCC.....AA....EE.DFF...D.GG..D D6 G2
+1 1 0 ...BBBCCC.....AA....EE.DFF...D..GG.D D6 G3 B99
+1 1 0 ..BBB.CCC.....AA.....EEDFF...D..GG.D D6 G3 E99
+1 1 0 ..BBB.CCC.....AA..EE...DFF...D..GG.D D6 G3 E98
+1 1 0 ..BBB.CCC..D..AA.D..EE.DFF......GG.. D4 G3
+1 1 0 BBB...CCC.....AA....EE.DFF...D..GG.D D6 G3 B98
+1 1 0 ..BBB.CCC.....AA...EE..DFF...D..GG.D D6 G3 E99
+1 1 0 ..BBB.CCC.......AA..EE.DFF...D..GG.D D6 G3 A98

@@ -1,0 +1,7 @@
+0.5 0 0.5 ..BBB.C...EEC..AA.FFFD.....DGG...... G4
+0.0 0 0.0 ..BBB.C..EE.C..AA.FFFD.....DGG...... G4 E99
+0.0 0 0.0 ..BBB.CEE...C..AA.FFFD.....DGG...... G4 E97
+0.0 0 0.0 BBB...C..EE.C..AA.FFFD.....DGG...... G4 E99 B98
+0.0 0 0.0 ...BBBC..EE.C..AA.FFFD.....DGG...... G4 E99 B99
+0.0 0 0.0 ..BBB.CEE...C..AA.FFF......DGG...D.. G4 D99 E97
+0.0 0 0.0 BBB...C..EE.C...AAFFFD.....DGG...... G4 A99 E99 B98

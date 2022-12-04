@@ -1,0 +1,11 @@
+0 0 0 ..BBB.C...EEC..AA.FFFD.....DGG...... G4
+1 1 0 ..BBB.C..EE.C..AA.FFFD.....DGG...... G4 E99
+1 1 0 ..BBB.CEE...C..AA.FFFD.....DGG...... G4 E97
+1 1 0 ..BBB.C...EEC.AA..FFFD.....DGG...... G4 A99
+1 1 0 C.BBB.C...EE...AA.FFFD.....DGG...... G4 C99
+1 1 0 ...BBBC...EEC..AA.FFFD.....DGG...... G4 B99
+1 1 0 ..BBB.C.EE..C..AA.FFFD.....DGG...... G4 E98
+1 1 0 BBB...C...EEC..AA.FFFD.....DGG...... G4 B98
+1 1 0 ..BBB.C...EEC..AA.FFF......DGG...D.. G4 D99
+1 1 0 .BBB..C...EEC..AA.FFFD.....DGG...... G4 B99
+1 1 0 ..BBB.C...EEC...AAFFFD.....DGG...... G4 A99

@@ -1,0 +1,12 @@
+0 0 0 G..FFFG.DD..GAA...E.BBB.E.HH........
+0 0 0 G.FFF.G.DD..GAA...E.BBB.E.HH........ F99
+0 0 0 G..FFFG.DD..GAA...EBBB..E.HH........ B99
+0 0 0 G..FFFG...DDGAA...E.BBB.E.HH........ D98
+0 0 0 G..FFFG.DD..GAA.....BBB.E.HH..E..... E99
+0 0 0 G.FFF.G.DD..GAA...E..BBBE.HH........ B99 F99
+0 0 0 G.FFF.G.DD..GAA.....BBB.E.HH..E..... E99 F99
+0 0 0 G..FFFG.DD..GAA...EBBB..E...HH...... H98 B99
+0 0 0 G..FFFG.DD..GAA....BBB..E.HH..E..... E99 B99
+0 0 0 G..FFFG...DDGAA.....BBB.E.HH..E..... E99 D98
+0 0 0 ...FFFG.DD..GAA...G.BBB.E.HH..E..... E99 G99
+0 0 0 G.FFF.G.DD..G...AAE..BBBE.HH........ B99 A97 F99

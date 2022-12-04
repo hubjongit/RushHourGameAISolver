@@ -1,0 +1,4 @@
+0 0 0 .DD.CC.........AA.FBE.GGFBE.HH.BE... B2 H5
+0 0 0 .DDCC..........AA.FBE.GGFBE.HH.BE... B2 H5 C99
+0 0 0 .DD.CC.........AA.FBE.GGFBEHH..BE... B2 H4
+0 0 0 .DD.CC..........AAFBE.GGFBE.HH.BE... B2 H5 A99

@@ -1,0 +1,29 @@
+0 0 0 EE.DDD......AA.GG..FFF..CC.B.....B.. C6
+1 1 0 EEDDD.......AA.GG..FFF..CC.B.....B.. C6 D99
+1 1 0 EE.DDD......AA..GG.FFF..CC.B.....B.. C6 G99
+1 1 0 .EEDDD......AA.GG..FFF..CC.B.....B.. C6 E99
+1 1 0 EE.DDD......AA.GG..FFF...CCB.....B.. C5
+1 1 0 EE.DDD......AA.GG....FFFCC.B.....B.. C6 F98
+1 1 0 EE.DDD......AAGG...FFF..CC.B.....B.. C6 G99
+1 1 0 EE.DDD......AA.GG...FFF.CC.B.....B.. C6 F99
+1 1 0 EE.DDD......AA.GG.FFF...CC.B.....B.. C6 F99
+1 1 0 EE.DDD.......AAGG..FFF..CC.B.....B.. C6 A99
+2 2 0 EEDDD........AAGG..FFF..CC.B.....B.. C6 A99 D99
+2 2 0 EEDDD.......AA.....FFF..CC.B.....B.. C6 G99 D99
+2 2 0 .EEDDD......AA.GG..FFF...CCB.....B.. C5 E99
+2 2 0 EE.DDD......AA..GG.FFF...CCB.....B.. C5 G99
+2 2 0 EE.DDD.......AAGG.FFF...CC.B.....B.. C6 F99 A99
+2 2 0 EE.DDD.......AA.GG.FFF..CC.B.....B.. C6 G99 A99
+2 2 0 EE.DDD......AAGG...FFF...CCB.....B.. C5 G99
+2 2 0 EEDDD.......AA.GG..FFF...CCB.....B.. C5 D99
+2 2 0 .EEDDD.......AAGG..FFF..CC.B.....B.. C6 A99 E99
+2 2 0 .EEDDD......AA.GG....FFFCC.B.....B.. C6 F98 E99
+2 2 0 EEDDD.......AA.GG....FFFCC.B.....B.. C6 F98 D99
+2 2 0 EE.DDD......AA.....FFF...CCB.....B.. C5 G99
+2 2 0 .EEDDD......AA.GG...FFF.CC.B.....B.. C6 F99 E99
+2 2 0 .EEDDD......AA.GG.FFF...CC.B.....B.. C6 F99 E99
+2 2 0 EEDDD.......AA.GG...FFF.CC.B.....B.. C6 F99 D99
+2 2 0 .EEDDD......AA..GG.FFF..CC.B.....B.. C6 G99 E99
+2 2 0 .EEDDD......AAGG...FFF..CC.B.....B.. C6 G99 E99
+2 2 0 EEDDD.......AA.GG.FFF...CC.B.....B.. C6 F99 D99
+2 2 0 EE.DDD..........AA.FFF..CC.B.....B.. C6 G99 A96

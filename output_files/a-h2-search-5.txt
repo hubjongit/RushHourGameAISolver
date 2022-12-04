@@ -1,0 +1,19 @@
+1 0 1 GFFF.DGC...D.CAAE.....E.BB..E....... H2
+1 1 0 GFFF.DGC...D.CAA......E.BB..E.....E. E99 H2
+2 1 1 GFFF..GC.....CAAE.....EDBB..ED...... D97 H2
+2 1 1 GFFFEDGC..ED.CAAE.......BB.......... E98 H2
+2 1 1 .FFF.D.C...DGCAAE.G...E.BB..E....... G98 H2
+2 2 0 GFFF..GC.....CAA......EDBB..ED....E. E99 D97 H2
+2 1 1 .FFF.DGC...DGCAAE.....E.BB..E....... G99 H2
+2 2 0 .FFF.D.C...DGCAA..G...E.BB..E.....E. E99 G98 H2
+2 1 1 GFFF..GC.....CAAE.....E.BB..ED.....D D96 H2
+2 1 1 GFFF.DGC..ED.CAAE.....E.BB.......... E99 H2
+2 1 1 GFFF.DGC...D.CAAE.....E...BBE....... B98 H2
+2 2 0 .FFF.DGC...DGCAA......E.BB..E.....E. E99 G99 H2
+2 2 0 GFFF.DGC...D.CAA......E...BBE.....E. E99 B98 H2
+2 1 1 GFFF.DGC...D.CAAE.....E..BB.E....... B99 H2
+2 2 0 GFFF.DGC...D.CAA......E..BB.E.....E. E99 B99 H2
+2 2 0 GFFF.DG....D.CAA...C..E.BB..E.....E. E99 C99 H2
+2 1 1 G.FFFDGC...D.CAAE.....E.BB..E....... F99 H2
+2 1 1 GFFF.DG....D.CAAE..C..E.BB..E....... C99 H2
+2 2 0 GFFF.DGC...D.C..AA....E.BB..E.....E. E99 A98 H2

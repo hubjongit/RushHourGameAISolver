@@ -1,0 +1,8 @@
+4 0 4 EE.DDD......AA.GG..FFF..CC.B.....B.. C6
+4 0 4 EEDDD.......AA.GG..FFF..CC.B.....B.. C6 D99
+4 0 4 EE.DDD......AA..GG.FFF..CC.B.....B.. C6 G99
+0 0 0 EEDDD.......AA.....FFF..CC.B.....B.. C6 G99 D99
+0 0 0 EE.DDD......AA.....FFF...CCB.....B.. C5 G99
+0 0 0 EEDDD.......AA....FFF...CC.B.....B.. C6 F99 G99 D99
+0 0 0 EEDDD.........AA...FFF..CC.B.....B.. C6 G99 A98 D99
+0 0 0 EEDDD...........AA.FFF..CC.B.....B.. C6 G99 A96 D99

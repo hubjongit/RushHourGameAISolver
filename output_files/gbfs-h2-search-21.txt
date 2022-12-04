@@ -1,0 +1,11 @@
+1 0 1 ..DDD.FFHEEEAAH.....GG...BB.........
+1 0 1 .DDD..FFHEEEAAH.....GG...BB......... D99
+1 0 1 ...DDDFFHEEEAAH.....GG...BB......... D99
+0 0 0 ..HDDDFFHEEEAA......GG...BB......... H99 D99
+0 0 0 ..HDDDFFHEEEAA.....GG....BB......... G99 H99 D99
+0 0 0 ..HDDDFFHEEEAA....GG.....BB......... G98 H99 D99
+0 0 0 ..HDDDFFHEEEAA.......GG..BB......... G99 H99 D99
+0 0 0 ..HDDDFFHEEEAA......GG..BB.......... B99 H99 D99
+0 0 0 ..HDDDFFHEEEAA......GG....BB........ B99 H99 D99
+0 0 0 ..HDDDFFHEEEAA........GG.BB......... G98 H99 D99
+0 0 0 ..HDDDFFHEEE....AA...GG..BB......... G99 H99 A96 D99

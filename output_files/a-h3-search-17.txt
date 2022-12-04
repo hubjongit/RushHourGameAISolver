@@ -1,0 +1,7 @@
+4 0 4 .D..E..D..E.AA..E..BCG...BCG.F..CG.F C7 H5
+1 1 0 .D.....D....AA.....BCGE..BCGEF..CGEF C7 E97 H5
+2 2 0 .D.....D....AA.....BCGEF.BCGEF..CGE. F99 C7 E97 H5
+2 2 0 .D.....D.....AA....BCGE..BCGEF..CGEF C7 E97 A99 H5
+2 2 0 .D.....D.......AA..BCGE..BCGEF..CGEF C7 E97 A97 H5
+2 2 0 .D.....D....AA......CGE..BCGEF.BCGEF C7 B99 E97 H5
+2 2 0 .D.....D........AA.BCGE..BCGEF..CGEF C7 E97 A96 H5

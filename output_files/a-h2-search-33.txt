@@ -1,0 +1,5 @@
+0 0 0 ...C...DDC..AA.....EFF...E..BB.E.GG. C8 D2
+1 1 0 ...C...DDC..AA.....EFF...E.BB..E.GG. B99 C8 D2
+1 1 0 ...C...DDC..AA.....EFF...E..BB.EGG.. G99 C8 D2
+1 1 0 ...C...DDC..AA.....E..FF.E..BB.E.GG. F98 C8 D2
+1 1 0 ...C...DDC......AA.EFF...E..BB.E.GG. A96 C8 D2

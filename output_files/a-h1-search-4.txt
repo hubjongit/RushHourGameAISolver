@@ -1,0 +1,7 @@
+0 0 0 ......EEE.DD...AA.CC.GGG.FFF...BB... E4
+1 1 0 ......EEEDD....AA.CC.GGG.FFF...BB... D99 E4
+1 1 0 ......EEE.DD..AA..CC.GGG.FFF...BB... A99 E4
+1 1 0 ......EEE.DD...AA.CC.GGGFFF....BB... F99 E4
+1 1 0 ......EEE.DD...AA.CC.GGG.FFF......BB B97 E4
+1 1 0 ......EEE.DD...AA..CCGGG.FFF...BB... C99 E4
+1 1 0 ......EEE.DD....AACC.GGG.FFF...BB... A99 E4

@@ -1,0 +1,9 @@
+0.0 0 0.0 ..BBB.CCC.....AA....EE.DFF...D..GG.D D6 G3
+1.0 1 0.0 .BBB..CCC.....AA....EE.DFF...D..GG.D D6 G3 B99
+1.0 1 0.0 ...BBBCCC.....AA....EE.DFF...D..GG.D D6 G3 B99
+1.0 1 0.0 ..BBB.CCC.....AA....EE.DFF...D.GG..D D6 G2
+1.0 1 0.0 ..BBB.CCC.....AA....EE.DFF...DGG...D D6 G1
+1.0 1 0.0 ..BBB.CCC.....AA....EE.D...FFD..GG.D D6 G3 F97
+1.0 1 0.0 ..BBB.CCC.....AA..EE...DFF...D..GG.D D6 G3 E98
+1.0 1 0.0 BBB...CCC.....AA....EE.DFF...D..GG.D D6 G3 B98
+1.0 1 0.0 ..BBB.CCC.......AA..EE.DFF...D..GG.D D6 G3 A98

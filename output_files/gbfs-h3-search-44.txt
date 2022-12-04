@@ -1,0 +1,32 @@
+4 0 4 ...D.....D..AA.B.....B...C.FFF.C..EE
+4 0 4 ...D.....D..AA.B.....B...CFFF..C..EE F99
+4 0 4 ...D.....D..AA.B.....B...C.FFF.CEE.. E98
+4 0 4 ...D.....D..AA.B...C.B...C.FFF....EE C99
+4 0 4 ...D.....D...AAB.....B...CFFF..C..EE F99 A99
+4 0 4 ...D.....D..AA.B...C.B...CFFF.....EE C99 F99
+4 0 4 ...D.....D..AA.B...C.B...C.FFF..EE.. E98 C99
+4 0 4 ...D.....D...AAB...C.B...C.FFF....EE C99 A99
+4 0 4 ...D.....D...AAB...C.B...CFFF.....EE C99 F99 A99
+4 0 4 ...D.....D..AA.B...C.B...CFFF...EE.. E98 C99 F99
+4 0 4 ...D.....D..AA.B...C.B...CFFF.EE.... E96 C99 F99
+4 0 4 ...D.....D...AAB...C.B...C.FFF..EE.. E98 C99 A99
+4 0 4 ...D.....D...AAB...C.B...C.FFFEE.... E96 C99 A99
+4 0 4 ...D.....D...AAB...C.B...CFFF.EE.... E96 C99 F99 A99
+4 0 4 ...D.....D...AAB...C.B...CFFF..EE... E97 C99 F99 A99
+4 0 4 ...D.....D...AAB...C.B...CFFF...EE.. E98 C99 F99 A99
+4 0 4 ...D.....D...AAB...C.B...CFFF....EE. E99 C99 F99 A99
+4 0 4 ...D.....D...AAB...C.B...C.FFF.EE... E97 C99 A99
+4 0 4 ...D.....D...AAB...C.B...C.FFF...EE. E99 C99 A99
+4 0 4 ...D.....D..AA.B...C.B...CFFF....EE. E99 C99 F99
+4 0 4 ...D.....D..AA.B...C.B...CFFF..EE... E97 C99 F99
+4 0 4 ...D.....D...AAB.....B...CFFF..CEE.. E98 F99 A99
+4 0 4 ...D.....D...AAB.....B...C.FFF.C.EE. E99 C98 A99
+4 0 4 ...D.....D...AAB.....B...CFFF..C.EE. E99 F99 A99
+4 0 4 ...D.....D..AA.B...C.B...C.FFFEE.... E96 C99
+4 0 4 ...D.....D..AA.B...C.B...C.FFF.EE... E97 C99
+4 0 4 ...D.....D..AA.B...C.B...C.FFF...EE. E99 C99
+4 0 4 ...D.....D..AA.B.....B...CFFF..CEE.. E98 F99
+4 0 4 ...D.....D...AAB.....B...C.FFF.CEE.. E98 A99
+4 0 4 ...D.....D..AA.B.....B...CFFF..C.EE. E99 F99
+4 0 4 ...D.....D..AA.B.....B...C.FFF.C.EE. E99
+4 0 4 ...D.....D...AAB.....B...C.FFF.C..EE A99

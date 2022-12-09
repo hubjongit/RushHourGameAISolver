@@ -1,26 +1,15 @@
-Initial board configuration: GFFF.DGC...D.CAAE.....E.BB..E.......
+Initial board configuration: IJBBCCIJDDL.IJAAL.EEK.L...KFF..GGHH.
 
-GFFF.D
-GC...D
-.CAAE.
-....E.
-BB..E.
-......
+IJBBCC
+IJDDL.
+IJAAL.
+EEK.L.
+..KFF.
+.GGHH.
 
-Car fuel available: E:100, B:100, A:100, C:100, D:100, G:100, F:100, H:2
+Car fuel available: H:100, G:6, F:0, K:100, L:100, E:100, A:100, J:100, I:100, D:100, C:100, B:100
 
-Runtime: 0.11330676078796387 seconds
-Search path length: 19 states
-Solution path length: 2 moves
-Solution path: E down 1; A right 2
+Sorry, could not solve the puzzle as specified.
+Error: no solution found
 
-E  down 1	99 GFFF.DGC...D.CAA......E.BB..E.....E.  E99 H2
-A right 2	98 GFFF.DGC...D.C..AA....E.BB..E.....E.  E99 A98 H2
-
-! E99 A98 H2
-GFFF.D
-GC...D
-.C..AA
-....E.
-BB..E.
-....E.
+Runtime: 0.545687198638916 seconds

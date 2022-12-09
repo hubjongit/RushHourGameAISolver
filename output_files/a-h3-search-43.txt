@@ -1,8 +1,0 @@
-0 0 0 ......FF.EEE...AA.CCC...BBBGDD...G..
-1 1 0 ......FFEEE....AA.CCC...BBBGDD...G.. E99
-1 1 0 ......FF.EEE.AA...CCC...BBBGDD...G.. A98
-1 1 0 ......FF.EEE...AA..CCC..BBBGDD...G.. C99
-1 1 0 .......FFEEE...AA.CCC...BBBGDD...G.. F99
-1 1 0 ......FF.EEE...AA.CCCG..BBBGDD...... G99
-1 1 0 ......FF.EEE..AA..CCC...BBBGDD...G.. A99
-1 1 0 ......FF.EEE....AACCC...BBBGDD...G.. A99

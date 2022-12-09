@@ -1,25 +1,15 @@
-Initial board configuration: ......EEE.DD...AA.CC.GGG.FFF...BB...
+Initial board configuration: BBB..MCCDD.MAAKL.MJ.KLEEJ.GG..JHHHII
 
-......
-EEE.DD
-...AA.
-CC.GGG
-.FFF..
-.BB...
+BBB..M
+CCDD.M
+AAKL.M
+J.KLEE
+J.GG..
+JHHHII
 
-Car fuel available: B:100, F:100, G:100, C:100, A:100, D:100, E:4
+Car fuel available: I:100, H:100, J:0, G:100, E:100, L:100, K:100, M:100, A:100, D:100, C:100, B:4
 
-Runtime: 0.021626949310302734 seconds
-Search path length: 7 states
-Solution path length: 1 moves
-Solution path: A right 1
+Sorry, could not solve the puzzle as specified.
+Error: no solution found
 
-A right 1	99 ......EEE.DD....AACC.GGG.FFF...BB...  A99 E4
-
-! A99 E4
-......
-EEE.DD
-....AA
-CC.GGG
-.FFF..
-.BB...
+Runtime: 0.3774290084838867 seconds

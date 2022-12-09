@@ -1,6 +1,0 @@
-1.5 0 1.5 .E..C..EBBC..AA.C....F....DF....DF.. B8 G2
-1.5 1 0.5 .E..C..EBBC...AAC....F....DF....DF.. A99 B8 G2
-2.0 1 1.0 .E.....EBB...AA......FC...DFC...DFC. C97 B8 G2
-2.0 1 1.0 .E..C..EBBC.AA..C....F....DF....DF.. A99 B8 G2
-2.0 2 0.0 .E.....EBB.....AA....FC...DFC...DFC. C97 A98 B8 G2
-2.0 2 0.0 .E.....EBB......AA...FC...DFC...DFC. C97 A97 B8 G2

@@ -1,25 +1,56 @@
-Initial board configuration: ..BBB.C...EEC..AA.FFFD.....DGG......
+Initial board configuration: BB.G.HE..G.HEAAG.I..FCCIDDF..I..F...
 
-..BBB.
-C...EE
-C..AA.
-FFFD..
-...DGG
-......
+BB.G.H
+E..G.H
+EAAG.I
+..FCCI
+DDF..I
+..F...
 
-Car fuel available: G:4, D:100, F:100, A:100, C:100, E:100, B:100
+Car fuel available: F:100, I:100, D:100, C:100, G:100, A:100, E:100, H:100, B:100
 
-Runtime: 0.02455902099609375 seconds
-Search path length: 11 states
-Solution path length: 1 moves
-Solution path: A right 1
+Runtime: 1.2892417907714844 seconds
+Search path length: 629 states
+Solution path length: 32 moves
+Solution path: I down 1; B right 1; E up 1; A left 1; F up 2; D right 3; F down 2; A right 1; E down 4; B left 1; A left 1; F up 3; C left 3; F down 3; G down 1; H down 1; B right 4; G up 1; F up 3; C right 3; F down 3; A right 1; E up 4; A left 1; F up 3; D left 3; C left 3; F down 3; G down 3; B left 3; H up 1; A right 4
 
-A right 1	99 ..BBB.C...EEC...AAFFFD.....DGG......  G4 A99
+I  down 1	99 BB.G.HE..G.HEAAG....FCCIDDF..I..F..I  I99
+B right 1	99 .BBG.HE..G.HEAAG....FCCIDDF..I..F..I  I99 B99
+E    up 1	99 EBBG.HE..G.H.AAG....FCCIDDF..I..F..I  I99 E99 B99
+A  left 1	99 EBBG.HE..G.HAA.G....FCCIDDF..I..F..I  I99 A99 E99 B99
+F    up 2	98 EBBG.HE.FG.HAAFG....FCCIDD...I.....I  F98 I99 A99 E99 B99
+D right 3	97 EBBG.HE.FG.HAAFG....FCCI...DDI.....I  F98 I99 D97 A99 E99 B99
+F  down 2	96 EBBG.HE..G.HAA.G....FCCI..FDDI..F..I  F96 I99 D97 A99 E99 B99
+A right 1	98 EBBG.HE..G.H.AAG....FCCI..FDDI..F..I  F96 I99 D97 A98 E99 B99
+E  down 4	95 .BBG.H...G.H.AAG....FCCIE.FDDIE.F..I  F96 I99 D97 A98 E95 B99
+B  left 1	98 BB.G.H...G.H.AAG....FCCIE.FDDIE.F..I  F96 I99 D97 A98 E95 B98
+A  left 1	97 BB.G.H...G.HAA.G....FCCIE.FDDIE.F..I  F96 I99 D97 A97 E95 B98
+F    up 3	93 BBFG.H..FG.HAAFG.....CCIE..DDIE....I  F93 I99 D97 A97 E95 B98
+C  left 3	97 BBFG.H..FG.HAAFG..CC...IE..DDIE....I  F93 I99 D97 C97 A97 E95 B98
+F  down 3	90 BB.G.H...G.HAA.G..CCF..IE.FDDIE.F..I  F90 I99 D97 C97 A97 E95 B98
+G  down 1	99 BB...H...G.HAA.G..CCFG.IE.FDDIE.F..I  F90 I99 D97 C97 G99 A97 E95 B98
+H  down 1	99 BB.......G.HAA.G.HCCFG.IE.FDDIE.F..I  F90 I99 D97 C97 G99 A97 E95 H99 B98
+B right 4	94 ....BB...G.HAA.G.HCCFG.IE.FDDIE.F..I  F90 I99 D97 C97 G99 A97 E95 H99 B94
+G    up 1	98 ...GBB...G.HAA.G.HCCF..IE.FDDIE.F..I  F90 I99 D97 C97 G98 A97 E95 H99 B94
+F    up 3	87 ..FGBB..FG.HAAFG.HCC...IE..DDIE....I  F87 I99 D97 C97 G98 A97 E95 H99 B94
+C right 3	94 ..FGBB..FG.HAAFG.H...CCIE..DDIE....I  F87 I99 D97 C94 G98 A97 E95 H99 B94
+F  down 3	84 ...GBB...G.HAA.G.H..FCCIE.FDDIE.F..I  F84 I99 D97 C94 G98 A97 E95 H99 B94
+A right 1	96 ...GBB...G.H.AAG.H..FCCIE.FDDIE.F..I  F84 I99 D97 C94 G98 A96 E95 H99 B94
+E    up 4	91 E..GBBE..G.H.AAG.H..FCCI..FDDI..F..I  F84 I99 D97 C94 G98 A96 E91 H99 B94
+A  left 1	95 E..GBBE..G.HAA.G.H..FCCI..FDDI..F..I  F84 I99 D97 C94 G98 A95 E91 H99 B94
+F    up 3	81 E.FGBBE.FG.HAAFG.H...CCI...DDI.....I  F81 I99 D97 C94 G98 A95 E91 H99 B94
+D  left 3	94 E.FGBBE.FG.HAAFG.H...CCIDD...I.....I  F81 I99 D94 C94 G98 A95 E91 H99 B94
+C  left 3	91 E.FGBBE.FG.HAAFG.HCC...IDD...I.....I  F81 I99 D94 C91 G98 A95 E91 H99 B94
+F  down 3	78 E..GBBE..G.HAA.G.HCCF..IDDF..I..F..I  F78 I99 D94 C91 G98 A95 E91 H99 B94
+G  down 3	95 E...BBE....HAA...HCCFG.IDDFG.I..FG.I  F78 I99 D94 C91 G95 A95 E91 H99 B94
+B  left 3	91 EBB...E....HAA...HCCFG.IDDFG.I..FG.I  F78 I99 D94 C91 G95 A95 E91 H99 B91
+H    up 1	98 EBB..HE....HAA....CCFG.IDDFG.I..FG.I  F78 I99 D94 C91 G95 A95 E91 H98 B91
+A right 4	91 EBB..HE....H....AACCFG.IDDFG.I..FG.I  F78 I99 D94 C91 G95 A91 E91 H98 B91
 
-! G4 A99
-..BBB.
-C...EE
-C...AA
-FFFD..
-...DGG
-......
+! F78 I99 D94 C91 G95 A91 E91 H98 B91
+EBB..H
+E....H
+....AA
+CCFG.I
+DDFG.I
+..FG.I

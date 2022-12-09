@@ -1,3 +1,0 @@
-0.5 0 0.5 ......FF.EEE...AA.CCC...BBBGDD...G..
-1.0 1 0.0 ......FFEEE....AA.CCC...BBBGDD...G.. E99
-1.0 1 0.0 ......FF.EEE....AACCC...BBBGDD...G.. A99

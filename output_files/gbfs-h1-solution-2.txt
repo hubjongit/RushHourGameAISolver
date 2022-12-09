@@ -1,27 +1,40 @@
-Initial board configuration: .....EB.HHHEB..AA.B.FFF..DCGG..DC...
+Initial board configuration: ..I...BBI.K.GHAAKLGHDDKLG..JEEFF.J..
 
-.....E
-B.HHHE
-B..AA.
-B.FFF.
-.DCGG.
-.DC...
+..I...
+BBI.K.
+GHAAKL
+GHDDKL
+G..JEE
+FF.J..
 
-Car fuel available: C:100, D:3, G:6, F:7, B:100, A:100, E:100, H:100
+Car fuel available: J:100, F:100, E:100, G:100, L:100, K:100, D:100, H:100, A:100, I:100, B:100
 
-Runtime: 0.140275239944458 seconds
-Search path length: 18 states
-Solution path length: 3 moves
-Solution path: B down 2; E down 4; A right 1
+Runtime: 10.621860027313232 seconds
+Search path length: 260 states
+Solution path length: 16 moves
+Solution path: L up 2; K up 1; H down 1; D right 2; A left 1; J up 4; F right 4; H down 1; F left 2; G down 1; D left 2; H up 1; K down 1; E left 2; K down 2; A right 3
 
-B  down 2	98 .....E..HHHE...AA.B.FFF.BDCGG.BDC...  D3 G6 F7 B98
-E  down 4	96 ........HHH....AA.B.FFF.BDCGGEBDC..E  D3 G6 F7 B98 E96
-A right 1	99 ........HHH.....AAB.FFF.BDCGGEBDC..E  D3 G6 F7 B98 A99 E96
+L    up 2	98 ..I..LBBI.KLGHAAK.GHDDK.G..JEEFF.J..  L98
+K    up 1	99 ..I.KLBBI.KLGHAAK.GHDD..G..JEEFF.J..  L98 K99
+H  down 1	99 ..I.KLBBI.KLG.AAK.GHDD..GH.JEEFF.J..  L98 K99 H99
+D right 2	98 ..I.KLBBI.KLG.AAK.GH..DDGH.JEEFF.J..  L98 K99 D98 H99
+A  left 1	99 ..I.KLBBI.KLGAA.K.GH..DDGH.JEEFF.J..  L98 K99 D98 H99 A99
+J    up 4	96 ..IJKLBBIJKLGAA.K.GH..DDGH..EEFF....  J96 L98 K99 D98 H99 A99
+F right 4	96 ..IJKLBBIJKLGAA.K.GH..DDGH..EE....FF  J96 F96 L98 K99 D98 H99 A99
+H  down 1	98 ..IJKLBBIJKLGAA.K.G...DDGH..EE.H..FF  J96 F96 L98 K99 D98 H98 A99
+F  left 2	94 ..IJKLBBIJKLGAA.K.G...DDGH..EE.HFF..  J96 F94 L98 K99 D98 H98 A99
+G  down 1	99 ..IJKLBBIJKL.AA.K.G...DDGH..EEGHFF..  J96 F94 G99 L98 K99 D98 H98 A99
+D  left 2	96 ..IJKLBBIJKL.AA.K.G.DD..GH..EEGHFF..  J96 F94 G99 L98 K99 D96 H98 A99
+H    up 1	97 ..IJKLBBIJKL.AA.K.GHDD..GH..EEG.FF..  J96 F94 G99 L98 K99 D96 H97 A99
+K  down 1	98 ..IJ.LBBIJKL.AA.K.GHDDK.GH..EEG.FF..  J96 F94 G99 L98 K98 D96 H97 A99
+E  left 2	98 ..IJ.LBBIJKL.AA.K.GHDDK.GHEE..G.FF..  J96 F94 E98 G99 L98 K98 D96 H97 A99
+K  down 2	96 ..IJ.LBBIJ.L.AA...GHDDK.GHEEK.G.FFK.  J96 F94 E98 G99 L98 K96 D96 H97 A99
+A right 3	96 ..IJ.LBBIJ.L....AAGHDDK.GHEEK.G.FFK.  J96 F94 E98 G99 L98 K96 D96 H97 A96
 
-! D3 G6 F7 B98 A99 E96
-......
-..HHH.
+! J96 F94 E98 G99 L98 K96 D96 H97 A96
+..IJ.L
+BBIJ.L
 ....AA
-B.FFF.
-BDCGGE
-BDC..E
+GHDDK.
+GHEEK.
+G.FFK.

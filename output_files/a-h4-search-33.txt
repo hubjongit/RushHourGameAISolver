@@ -1,3 +1,0 @@
-1.0 0 1.0 ...C...DDC..AA.....EFF...E..BB.E.GG. C8 D2
-1.0 1 0.0 ...C...DDC....AA...EFF...E..BB.E.GG. A98 C8 D2
-1.0 1 0.0 ...C...DDC......AA.EFF...E..BB.E.GG. A96 C8 D2

@@ -1,5 +1,0 @@
-0.5 0 0.5 HH.GG.....BBE.AA..E..C..E..CFF......
-1.0 1 0.0 HH.GG...BB..E.AA..E..C..E..CFF...... B98
-1.0 1 0.0 HH.GG..BB...E.AA..E..C..E..CFF...... B97
-1.0 1 0.0 HH.GG.BB....E.AA..E..C..E..CFF...... B96
-1.0 1 0.0 HH.GG.....BBE...AAE..C..E..CFF...... A98

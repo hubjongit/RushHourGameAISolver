@@ -1,5 +1,0 @@
-4 0 4 ..BB....CC.EFFFAAE..G..E..G.....G.DD
-5 1 4 ..BB.E..CC.EFFFAAE..G.....G.....G.DD E99
-5 1 4 ..BB....CC.EFFFAAE..G..E..G.....GDD. D99
-2 2 0 ..BB....CC..FFFAA...G..E..G..E..GDDE D99 E98
-3 3 0 ..BB....CC..FFF.AA..G..E..G..E..GDDE D99 E98 A99

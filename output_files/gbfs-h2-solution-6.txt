@@ -9,7 +9,7 @@ DDF..I
 
 Car fuel available: F:100, I:100, D:100, C:100, G:100, A:100, E:100, H:100, B:100
 
-Runtime: 1.2132971286773682 seconds
+Runtime: 0.3378920555114746 seconds
 Search path length: 313 states
 Solution path length: 47 moves
 Solution path: I down 1; B right 1; E up 1; A left 1; F up 2; D right 3; F down 2; A right 1; E down 3; A left 1; F up 2; D left 2; B left 1; F up 1; D right 1; C left 1; D right 1; E down 1; C left 2; F down 3; G down 1; B right 3; F up 2; D left 2; G down 2; F up 1; C right 1; E up 1; H down 1; B right 1; G up 2; D right 2; G up 1; C right 2; F down 3; A right 1; E up 3; A left 1; F up 3; D left 3; C left 3; G down 3; F down 3; B left 1; H up 1; B left 2; A right 4

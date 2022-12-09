@@ -9,7 +9,7 @@ FFKL.N
 
 Car fuel available: H:100, N:100, G:100, K:100, L:100, F:100, M:100, A:100, J:100, D:100, C:100, B:100
 
-Runtime: 8.590849161148071 seconds
+Runtime: 0.8856649398803711 seconds
 Search path length: 534 states
 Solution path length: 42 moves
 Solution path: H right 3; K down 1; D right 2; F right 1; J down 3; A left 1; B left 1; C left 1; M up 1; D left 3; L up 1; A right 1; D right 1; H left 1; A left 1; F right 2; N down 1; K up 1; H left 1; F right 1; L down 1; K up 1; G left 2; L down 1; H left 1; L down 1; F left 1; M down 1; C right 1; B right 1; D right 2; K up 1; B left 1; K up 1; N up 1; A right 1; F left 1; A right 2; K down 1; C left 1; M up 1; A right 1

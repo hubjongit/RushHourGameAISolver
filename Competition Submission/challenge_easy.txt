@@ -1,0 +1,302 @@
+#
+# Challenge: easy
+#
+# easy challenge 1
+...CC.DD.K.LIAAK.LI.JEEMFFJ..M.GGG.. 
+
+# easy challenge 2
+BBJ...DDJ..L..JAALI..KEEIFFK.....KHH 
+
+# easy challenge 3
+..JK..CCJK..HAA.MNHIDDMN.I.LEE.GGL.. M1 N4
+
+# easy challenge 4
+..KCC.DDK...IJAAMNIJFFMN...LGG.HHL.. 
+
+# easy challenge 5
+.CCDDN..LEENAAL.MO.GG.MO.K.HH..KIIJJ 
+
+# easy challenge 6
+BBCCCLDD...LI..AAMI.FFKMGGJ.KM..JHHH 
+
+# easy challenge 7
+..BB.....KEEAA.KL..IFFLM.IJGGMHHJ..M H1 A4
+
+# easy challenge 8
+.K.CC.JK..N.JAAMN.EELMFF..LGGOHHHIIO 
+
+# easy challenge 9
+...CCN..KDDNAAKL..JEELFFJGGLM.II..M. 
+
+# easy challenge 10
+.BBLCC.DDL.N.JAAMN.JFFM.HHK...IIK... N0 M4
+
+# easy challenge 11
+BBJ...H.JDDLHAAK.LEE.KFFI..K..IGGG.. 
+
+# easy challenge 12
+BBB..MI.DD.MIAAL.MI..LEEJ.KGG.J.KHHH 
+
+# easy challenge 13
+HI..CCHI.KDDHAAKL...EEL...JFF.GGJ... 
+
+# easy challenge 14
+BBBCCNDD..MNJAA.M.J.KFF.GGKL..IIIL.. 
+
+# easy challenge 15
+...CCC..JDDMAAJ.LMHIEEL.HI.KFF...K.. 
+
+# easy challenge 16
+..JCCC..JDDL.AAK.L.I.KEE.IGG.MHH...M 
+
+# easy challenge 17
+BBB..L...DDLAAJK..EEJKFFIGGG..IHH... 
+
+# easy challenge 18
+IBBM..IJKMCCIJKAANDDL..NEEL...GGHH.. 
+
+# easy challenge 19
+..CCDD..LMEEAALM.NKFFGGNK.HH..II.... G1 A3
+
+# easy challenge 20
+.ICCCMHI.KLMHAAKL.H.DDL...J...FFJGG. 
+
+# easy challenge 21
+..BB.....KEEAA.KL..IFFLM.IJGGMHHJ..M 
+
+# easy challenge 22
+GBBB..G.IKCCAAIK..DDJK...HJ.L..HEEL. 
+
+# easy challenge 23
+.....LCCJDDLAAJK..IEEKFFIGGG..HHH... 
+
+# easy challenge 24
+BB.H.JF..HIJFAAHI...GCCKDDG..K..G... 
+
+# easy challenge 25
+...DDK..IEEKAAI..LHFFF.LH..JGG...J.. 
+
+# easy challenge 26
+...KCC..JKDDAAJKLM..FFLMI.GG..I..HH. 
+
+# easy challenge 27
+IBBCCMIDDK.MIAAK....JEEE..J.L.GGHHL. 
+
+# easy challenge 28
+.CCJ..H..J.MHAAKLMDDIKLN..IEEN.FF... 
+
+# easy challenge 29
+BBCCM.DDKLM.AAKL...JFF.N.JHH.NII.... 
+
+# easy challenge 30
+...K.....KDDAAJ..MI.JEEMIFF.LMGGHHL. 
+
+# easy challenge 31
+HBBJKLH..JKLAAIJ....ICCCDDD..MFFFGGM 
+
+# easy challenge 32
+I.....ICCCM.AAKLM..JKLDD.JFF.NGGHH.N 
+
+# easy challenge 33
+G..BBBG.CC.KAAHI.K..HIJLEEEIJL..FF.. 
+
+# easy challenge 34
+.CCKDDH.JK..HIJAAM.IEELM....LN..GGGN 
+
+# easy challenge 35
+.CCDD.I..KEEIAAK.LI.JFFLGGJ..M.....M 
+
+# easy challenge 36
+BBIJCC.HIJK..HAAKLDD...LFF...L...... 
+
+# easy challenge 37
+BB....H..JKLHAAJKL..IDDMEEI..M..I.GG B0 L3
+
+# easy challenge 38
+GBB.L.GHI.L.GHIAAMDDJK.M..JKEE...... D1 G6
+
+# easy challenge 39
+BB........LMAA.KLMIEEK.MI.JFFFGGJHH. 
+
+# easy challenge 40
+.JCCCNIJ.LMNIAALM.DDK.M...KFF..GGHH. 
+
+# easy challenge 41
+.LBB..JL.NEEJAAN.OFFMGGOK.MHH.K.MII. 
+
+# easy challenge 42
+.IBB.L.ICC.LAAJK.MH.JK.MH.....HFFFGG 
+
+# easy challenge 43
+.JBB.MIJCC.MIAAL....KLDD..KFF...KHHH 
+
+# easy challenge 44
+.CC....EEFF.AAKL...JKLGG.JHHMNII..MN F1 K3
+
+# easy challenge 45
+..J...CCJKM.HAAKMNHIDD.N.I.LFFGG.L.. 
+
+# easy challenge 46
+BBJ.CCI.J.LMI.AALMDD.K.NFF.K.NGGHH.. 
+
+# easy challenge 47
+BB.J..H..JDDHAAKLM.EEKLM..IGGM..I... 
+
+# easy challenge 48
+BBCC..K.EE..KAAN..K.MNGGL.MHHOLIIJJO 
+
+# easy challenge 49
+..CC.KG..I.KGAAI.LDDHJ.L..HJEE...... 
+
+# easy challenge 50
+..CC...EEL..AAJL..I.JFFFI.KGGMHHK..M 
+
+# easy challenge 51
+...IBB..HIKLAAHJKLCC.J..GEEE..GFF... 
+
+# easy challenge 52
+BBBJ..H..JL.HAAKL.DDIK.M..IEEMFFFGG. D1 J5
+
+# easy challenge 53
+HBB.L.H.I.L...IAAMDDDK.M..JKEE..JKGG 
+
+# easy challenge 54
+..CCDD..KEENAAK.MNJ.FFM.J..LGG...LII 
+
+# easy challenge 55
+BBJ...I.JCCMIAAKLMDD.KLN..FFLN.HHH.N 
+
+# easy challenge 56
+IBBCCCIDDK..AAJK....JFFL..JGGL...... 
+
+# easy challenge 57
+BB....DD.J.KHAAJ.KH.IEELFFI..L..IGGG 
+
+# easy challenge 58
+.HBBKMFH.JKMFAAJLMGCC.L.G.I.L...IEEE 
+
+# easy challenge 59
+.CCI....HI.KAAH..K.GEEEL.GFFJL....J. E0 I3
+
+# easy challenge 60
+KBBCCOK.MDDOAAM...L..NEELFFN..LHHII. 
+
+# easy challenge 61
+BBCC..EEK..M..KAAMJ.KLFFJGGL....III. 
+
+# easy challenge 62
+...LCCDDKL.NJ.KAANJEE.MOFF..MOHHIIM. 
+
+# easy challenge 63
+.CCI..G..IKLGAAJKLDDHJ.M..HEEM...... 
+
+# easy challenge 64
+...CCM..IDDMAAIJL.HEEJL.H..KFF...K.. 
+
+# easy challenge 65
+BBCCL...J.LM..JAAMI.EE.MIFFK..GGGKHH 
+
+# easy challenge 66
+IBB...IDDD.LAAJK.L..JKEE...KFF.GGHH. 
+
+# easy challenge 67
+...KCCH..K.LH.JAALEEJ..M.IFF.M.IGGGM 
+
+# easy challenge 68
+JBBM..J.LMDDAAL...KEEE.NK.GG.NHHHIIN 
+
+# easy challenge 69
+BBCC..JEEEFFJ.KAAM..KHHM...LII...L.. 
+
+# easy challenge 70
+....CCDD..LMIAA.LMI.JFFMGGJK..HHHK.. 
+
+# easy challenge 71
+F..HBBFCCH.K..GAAK..GIJ.EEEIJ....... 
+
+# easy challenge 72
+.CCL....KLDDJ.KAAMJEE..MJFFGGNHHHIIN 
+
+# easy challenge 73
+BBJ...H.JCC.HAAKLMEE.KLM.IFFLM.I.... 
+
+# easy challenge 74
+..CCDD..LMEEAALM.NKFFGGNKHH...IIJJ.. A0 I4
+
+# easy challenge 75
+J.CCC.JDDL..AAKL....KEE...KGG.HHIII. 
+
+# easy challenge 76
+BBB..LI..CCLIAA.KMDDEEKMFFJ.KM..JHH. J0 L6
+
+# easy challenge 77
+.CCM..J.LMDDJ.LAANKEE..NK.GG.OHHIIIO 
+
+# easy challenge 78
+...CCMDDK..MI.KAANIEEL.NJ..LFFJGGHH. 
+
+# easy challenge 79
+...CC.DD.LEEJAAL.MJ.KFFMGGK..N.HHH.N 
+
+# easy challenge 80
+.KBB...KEEN.JAAMN.JFFMGG..LHHO..LIIO N0 K4
+
+# easy challenge 81
+I..CCCI.DD.MAA.L.MJEEL.NJ.KFFNJ.KGG. 
+
+# easy challenge 82
+.......CCCK.AAIJK...IJDDHEEJ..HFFGG. 
+
+# easy challenge 83
+...K..GCCK..GIAAMNHIDDMNH.JLEEFFJL.. 
+
+# easy challenge 84
+.BB.....EE.LAAJK.L..JKFFI.JGGMIHHH.M 
+
+# easy challenge 85
+BB....I..KDDIAAK.L..JEELFFJ..L..J.HH 
+
+# easy challenge 86
+.IBBCC.I..L.HIAAL.HEEKLM..JK.MFFJGGM 
+
+# easy challenge 87
+BBBJL.CC.JL.AA.K..HDDK..H.IFFMGGI..M 
+
+# easy challenge 88
+...CCC..JDDDAAJ..LIEEFFLIGGK..HHHK.. 
+
+# easy challenge 89
+J.LBB.J.LMDDKAAM.NK.FF.NGGHH......II 
+
+# easy challenge 90
+BBK...I.KCC.IAALM.EE.LMN.JFFMN.JHHHN 
+
+# easy challenge 91
+F.IBBLF.IJKLFAAJK.GHCCK.GH.....H.EE. 
+
+# easy challenge 92
+...DDDH..K.MHAAK.MEEJFFM.IJ.L..IGGL. 
+
+# easy challenge 93
+.CCJKL..IJKLAAI....HDDEE.H.....HGG.. 
+
+# easy challenge 94
+BB.DD...LMEEAALM.NKFFF.NK.GG..IIJJ.. 
+
+# easy challenge 95
+.CCLDDH.KL..HJKAANIJEEMNI...MO..GGGO 
+
+# easy challenge 96
+...CCCDD.K..IAAK.LI.JEELFFJ..L.GGG.. 
+
+# easy challenge 97
+...J..GH.JCCGHAAKLDDI.KL..I.KM..FFFM 
+
+# easy challenge 98
+....K...HJK.AAHJKLFGDDDLFGI...EEI... 
+
+# easy challenge 99
+.CCK...I.KDD.IAAL..FF.LM..J.LMGGJHHM 
+
+# easy challenge 100
+BBJCC.I.J.L.I.AALMDD.K.MFF.K.MGGHHH. 

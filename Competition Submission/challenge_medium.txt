@@ -1,0 +1,302 @@
+#
+# Challenge: medium
+#
+# medium challenge 1
+BBICCLG.IJKLGAAJKMGHDDDM.H.....FF... 
+
+# medium challenge 2
+...KCC.I.KDDHIAAL.HEEELM..J.LM..JGGM 
+
+# medium challenge 3
+BBI..LGHI..LGHAA.MCCJK.M..JKEEFFF... 
+
+# medium challenge 4
+H.KBB.H.KDDNIAAL.NIJ.LEE.JFFM.....M. H1 L5
+
+# medium challenge 5
+H.BBCCH.I..LAAIJKL.DDJKMEEE.KM.FF... 
+
+# medium challenge 6
+.GHIBB.GHIJKAAHIJKFCC..LF....LEE...L J0 E5
+
+# medium challenge 7
+..CC.L..JDDLAAJK.MIEEK.MI..KFFI.GG.. 
+
+# medium challenge 8
+...J..H.IJBBH.IAAM.CCKLM.EEKLN..GG.N 
+
+# medium challenge 9
+.BBBCCDDJ..LAAJ..LIEE.KMIGG.KMHHH..M 
+
+# medium challenge 10
+..HBBB..HI.KFAAIJKF..IJL.GDDJL.GEEE. 
+
+# medium challenge 11
+.BBCCCDDEELMAAK.LMJ.KFFNJGG..N.III.N 
+
+# medium challenge 12
+........IK..AAIKLMDDJKLMGHJEE.GHFFF. 
+
+# medium challenge 13
+.BBCCC..EEKLAAIJKLH.IJFFHGGG.M.....M M0 K6
+
+# medium challenge 14
+BB...M.JCCCM.JAALNDDK.LNI.KFFFIGG... 
+
+# medium challenge 15
+BBJK..HIJKDDHIAAL.EE..LNFF..MN....M. 
+
+# medium challenge 16
+BBBJLMH..JLMHAAKL...IKDD..IEE..GG... 
+
+# medium challenge 17
+BBB..K.....KAAI..KGHIDDDGH.JEEGFFJ.. 
+
+# medium challenge 18
+HBB.LMHI..LM.IJAANCCJK.N...KEE..GG.. 
+
+# medium challenge 19
+BBBCCN..KDDNAAKLM.JEELM.JGG...HH.... 
+
+# medium challenge 20
+...ICC..HI..AAHJ.KDDDJ.K.GEE.K.GFF.. G0 E6
+
+# medium challenge 21
+H..CC.HJ..M.IJAAMNIEELMN..KLFFGGK... 
+
+# medium challenge 22
+GBBB..GCCK..AAIK.L.HIEEL.HJ.FF..J... H0 L3
+
+# medium challenge 23
+.H.BBL.H..KLAA.JKLGDDJEEG.IFF.G.I... 
+
+# medium challenge 24
+..CCM.IDDLMNIAAL.NEEK..N.JK....JGGHH 
+
+# medium challenge 25
+.H...K.HCC.KGAAJ.LG.IJ.LG.IDDDEEFFF. A1 H5
+
+# medium challenge 26
+..L.CCI.LDDDIAAM..JEEM.NJKFF.N.KGG.. G0 E4
+
+# medium challenge 27
+..CC....KEE.AAK.M.IJFFM.IJ.LGGIHHL.. 
+
+# medium challenge 28
+..I.CCDDI.LMH.AALMH.JEEM..JKFFGGGK.. 
+
+# medium challenge 29
+...CCC..JKDDAAJK..HEEFF.HIGGL..I..L. 
+
+# medium challenge 30
+.JBBCC.JK...AAK..NIDDEENIFFLM.HH.LM. 
+
+# medium challenge 31
+.CCK.....KMNAA.LMNIDDL.OI.JEEOFFJGG. 
+
+# medium challenge 32
+...CCC..JKDDAAJKLM.IEELM.IFF..GG.... 
+
+# medium challenge 33
+I.BB..I..KDDIAAK.L..JEEL..JGGMHHJ..M J0 M4
+
+# medium challenge 34
+.CCK.MHI.KLMHIAALNDDJ.LN..JEEE.GGG.. 
+
+# medium challenge 35
+BBBCC...KDD.AAKL.MJFFL.MJGGL..HHII.. 
+
+# medium challenge 36
+BBBCCLI.EE.LIAAK..I..KFF..JGGMHHJ..M 
+
+# medium challenge 37
+BBJ.CCI.JDDMIAAL.MEEKL.N..KFFN...... 
+
+# medium challenge 38
+.BB.L...J.L.AAJ.L..IDDEE.I.KGGHH.K.. 
+
+# medium challenge 39
+BBJ..L..J..LHIJAAMHIDD.M...KFFGGGK.. 
+
+# medium challenge 40
+...CCCDDEEM.JAALM.J.KLFF..KGGN.HH..N 
+
+# medium challenge 41
+F.....FCCJ.KAAHJ.K.GHDDL.GIEEL..I... 
+
+# medium challenge 42
+..KBBB..KL..JAAL.MJ.EE.MFFGG.MHHHII. 
+
+# medium challenge 43
+..JLCCDDJL.M.IKAAMHIK..NHEE..NHFF... 
+
+# medium challenge 44
+..JBB.H.J.K.HAA.K.DDEEK..IFF.L.IGGGL 
+
+# medium challenge 45
+BBJ.....JDDDHAAK.MHI.KLMHIEELNFFGG.N 
+
+# medium challenge 46
+..IBBB..I..LGAAJ.LGH.JEE.HFFKM....KM 
+
+# medium challenge 47
+BBJ...H.JDDMHAA..MH.KEEMI.KLFFIGGL.. 
+
+# medium challenge 48
+BB..LMHI..LMHIAAL...JCC.EEJKFF...K.. 
+
+# medium challenge 49
+.ICCLMHI.KLMHAAK.NH.J..N..JEEEFFGGG. 
+
+# medium challenge 50
+BB.K..H..KDDHAALM.IEELMNI.JFFN..JGGN 
+
+# medium challenge 51
+..IBB...IJL.AAIJL.DD.KEEHFFK.MHGGG.M 
+
+# medium challenge 52
+..I.BB..I.KLAAI.KLHDDEELHFFJ..GGGJ.. 
+
+# medium challenge 53
+.CCCLMDDEELMAAJ..N..JFFNI..KGGIHHK.. 
+
+# medium challenge 54
+....CCIDDD.MI.KAAMEEKL.MJ..LFFJGGHH. 
+
+# medium challenge 55
+....K...HJKLAAHJKLFGCCCMFGIDDMEEI... C0 H6
+
+# medium challenge 56
+BBBLCCJ..LDDJAAL.M..KEEM..KFF.HHH... M1 J5
+
+# medium challenge 57
+...JBB...JDDGAAJ.LGHIEEL.HI.KMFFF.KM A1 B3
+
+# medium challenge 58
+BBB.LMGI..LMGIJAANG.JDDNH..KEEHFFK.. H0 K3
+
+# medium challenge 59
+BBBCC...JDD.AAJKL.IEEKL.I..FF....... 
+
+# medium challenge 60
+...LCC.J.LMNIJAAMNIDDEEN..KFF.GGKHHH E1 F6
+
+# medium challenge 61
+.CCL...JKLDD.JKAAMIEE..MIGG..NIHHH.N 
+
+# medium challenge 62
+I.KBB.I.KDDNJAAL.NJ..LEEFF.M...HHM.. 
+
+# medium challenge 63
+BBBJKLH..JKLHAAJ..CCIDD...IEEE...... 
+
+# medium challenge 64
+.....KCCDDDKAAHI..G.HIEEG.FFJL....JL 
+
+# medium challenge 65
+F...IKFBBBIKAAGHJL..GHJL...HCC...EE. 
+
+# medium challenge 66
+KBB.DDK.EEN.AAL.NOGGLHHOIIIM..JJJM.. 
+
+# medium challenge 67
+....L.HCCKLMHAAK.MDDJ..M.IJ....IFFGG 
+
+# medium challenge 68
+BBI..L.HI.KL.HAAKL...J...DDJEE.FFFGG 
+
+# medium challenge 69
+.GBBLM.GHJLMAAHJ.NCCI..NF.IK..FDDK.. 
+
+# medium challenge 70
+BB.K..H..KDDHAAL..I.JL.MI.JEEMFFFGGM 
+
+# medium challenge 71
+.CCI..GDDI.LGAAJKLGEEJKM..HFFM..H... 
+
+# medium challenge 72
+.CCL....KLDDAAKL.NIJKEENIJFFM.GGHHM. 
+
+# medium challenge 73
+BBKCCNIJK.MNIJAAM.EE.LM....LFF..HH.. 
+
+# medium challenge 74
+GBBJL.G..JL.HAAK..H.IKDDH.IEEMFFF..M 
+
+# medium challenge 75
+.CCK...IJKDD.IJAALEEE..LFF...MGG...M J1 L4
+
+# medium challenge 76
+.BB.....JDDDAAJ.LMHIEELMHI.KFFGG.K.. 
+
+# medium challenge 77
+HBBB.KHCCC.KAAIJ.LDDIJ.L...JEE..GG.. 
+
+# medium challenge 78
+.BB.LN..J.LNAAJ.MNHIDDM.HI.KEE.GGK.. 
+
+# medium challenge 79
+G.J...G.JBBMHAAK.MHI.KLNHICCLNDDEEL. 
+
+# medium challenge 80
+BBBJ.L..IJ.LH.IAALHCCK.....KEEFF.... 
+
+# medium challenge 81
+.IJBB..IJ...AAJ..MHDDEEMHFFKL.GG.KL. 
+
+# medium challenge 82
+..BBBMCCJ.LMAAJ.LN.IDDLN.I.KFF.GGKHH J1 D4
+
+# medium challenge 83
+H.BBB.HCCCL.AA.KLMIDDKLMI.JEE.FFJ... 
+
+# medium challenge 84
+BBJK..DDJK..IAAK..IEEE..FF....HHH... H1 F4
+
+# medium challenge 85
+.IBBL..IJ.LMAAJ..MH.JDDDHEEK..FF.KGG 
+
+# medium challenge 86
+..HCCC..H..JAAH..JGDDEEJGFFI.....I.. 
+
+# medium challenge 87
+BB.L..IJ.LCCIJAAM.DDK.M...K.FF.GGHH. 
+
+# medium challenge 88
+BBK..NH.K.MNHAA.MOIJCC.OIJ.LEEFF.L.. 
+
+# medium challenge 89
+BBJ..M..JCCMHAA.LNHDDDLN.I.KEE.I.KGG 
+
+# medium challenge 90
+..CCLMHDDJLMHAAJLNH.IK.N..IKEEFFGG.. 
+
+# medium challenge 91
+..JBB...JLEE.AALM..IFFM..IKGG.HHK... 
+
+# medium challenge 92
+...CCC..EEKLAAIJKLH.IJFFHGGG.M.....M 
+
+# medium challenge 93
+IJBBCCIJKDD.AAK.LM.EE.LMFFF.LM.HH... 
+
+# medium challenge 94
+.CCK....JKDDAAJ...HIJEEMHI..LMFFGGLM 
+
+# medium challenge 95
+BBCC.....KEEAA.KL..IFFLM.IJGGMHHJ..M 
+
+# medium challenge 96
+.IBBLMHICCLMHAAK.N..JK.N..JEEE..FFGG 
+
+# medium challenge 97
+HBB.LMH.J.LM.IJAAM.IJDDD...KEE.GGK.. 
+
+# medium challenge 98
+BBBK.M.I.KLMHIAAL.HCC.L...JFF.GGJ... 
+
+# medium challenge 99
+.IBBCC.IDDDMAAJK.MH.JKEEH.FFL.....L. 
+
+# medium challenge 100
+G...JKGBBBJKAAH.JL..HCCL.EEI..FFFI.. 

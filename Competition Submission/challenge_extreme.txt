@@ -1,0 +1,302 @@
+#
+# Challenge: extreme
+#
+# extreme challenge 1
+BBB..K..H..K..HAAKCCIJDDG.IJEEGFFF.. B0 C3
+
+# extreme challenge 2
+.BBBCC..JDDLAAJ.KLIEE.KMIFF..MGGHHHM 
+
+# extreme challenge 3
+..GBBB..G...AAHIJKCCHIJK.FDD.K.FEEE. 
+
+# extreme challenge 4
+.HBBKM.HIJKMAAIJLNGCC.LNGDD..NGEEEFF 
+
+# extreme challenge 5
+FBBBJLF.CCJLAAGHKMDDGHKM...IEE...I.. 
+
+# extreme challenge 6
+G.BB..GCCC.LAAHIKLDDHIKL...JEE.FFJ.. 
+
+# extreme challenge 7
+BBHCC.G.H.JKGAA.JKGDDDJK...I..EE.IFF 
+
+# extreme challenge 8
+..IBBB..IJCC.AAJ...HDDK..HEEKLFFGGKL 
+
+# extreme challenge 9
+BBBJCCDDDJ.LAAI..L..IEELH.FFK.HGGGK. 
+
+# extreme challenge 10
+BBJCCCG.JK..GAAK..HI.DDMHI..LMEEFFLM F1 H6
+
+# extreme challenge 11
+FBB.K.FGH.KLFGHAALCCCJ.L..IJDDEEI... 
+
+# extreme challenge 12
+BBG..I..G..I..GAAIF..HCCFDDH...EEH.. 
+
+# extreme challenge 13
+IJBBCCIJDDM.IAALM.FFFLMN..KGGN..KHH. 
+
+# extreme challenge 14
+..GBBB..G..JAAH.IJCCH.IK.FDD.K.FEEEK 
+
+# extreme challenge 15
+FGBBJ.FG.IJLFAAIKL..H.KM..HCCMDDEEEM 
+
+# extreme challenge 16
+HBBKCCHDDK.LH.IAAL..IEEM..JFFM..J... 
+
+# extreme challenge 17
+.HBBCC.H.JK.AA.JKLGDDDKLG.IEE.G.IFF. 
+
+# extreme challenge 18
+BBBI.KCC.I.KAA.J.LGDDJ.LG.HEELFFH... 
+
+# extreme challenge 19
+GBBB..GCCCKLAAHIKLDDHIKL...JEE.FFJ.. 
+
+# extreme challenge 20
+BBBI.K...I.KAA.J.KGCCJ..G.HDD.EEHFFF 
+
+# extreme challenge 21
+.HBBCC.H.JDDAA.JK.GEEEKLG.I.KLG.IFFL 
+
+# extreme challenge 22
+...JBBCCCJ.LAAI..LH.IDDLHEEK.....KGG 
+
+# extreme challenge 23
+EG.IBBEG.IKLFAAJKLFCCJKMF.H..M..HDDM 
+
+# extreme challenge 24
+.H..K.FHBBK.FAAJK...IJCCG.IDDLGEEE.L B1 A5
+
+# extreme challenge 25
+FBBB.KF.GCCKAAGHJL.DDHJL...IEE...I.. 
+
+# extreme challenge 26
+.HBBCC.H.JK.AA.JK.GDDDK.G.IEE.G.IFF. 
+
+# extreme challenge 27
+G.BBBLG.HIKLAAHIKMCC.JKM...JDD.EEFF. 
+
+# extreme challenge 28
+..GBBK..GH.KAAGHJKFCCCJ.FDDI..EE.I.. 
+
+# extreme challenge 29
+BBBJKLGCCJKLG.AAKLDDI....HI....HEEFF 
+
+# extreme challenge 30
+BBCCC.G..IDDGAAI.J..HEEJFFH..K..H..K 
+
+# extreme challenge 31
+.BBBCC..I..KAAI..KHDDEELHFF.JLGGG.JL 
+
+# extreme challenge 32
+.BBKCCDDIK.L..IAALH.J..MH.JEEMHFFGGG 
+
+# extreme challenge 33
+..GBBB..G..JAAHI.JCCHI.KFDD..KFEEE.K 
+
+# extreme challenge 34
+.BBB..CCCJ.LAAIJ.LH.IDDLHEEK.....KGG L1 B3
+
+# extreme challenge 35
+..GBBB..G..JAAH.IJCCH.IKFDD..KFEEE.K 
+
+# extreme challenge 36
+BBCCCLG.H..LG.HAALDDEEK...IJK...IJFF 
+
+# extreme challenge 37
+G.BB..GCCCK.AAHIKLDDHIKL...JEE.FFJ.. 
+
+# extreme challenge 38
+GBBBKMGCCCKMAAHIL.DDHIL....JEE...JFF 
+
+# extreme challenge 39
+BBB..K..H..K..HAAKCCIJ..FGIJDDFGEEE. 
+
+# extreme challenge 40
+BBICC.H.I.KLHAA.KLHDDDKL...JEEFF.JGG 
+
+# extreme challenge 41
+.BBBCC..IDDLAAI..LH.EEKMHFFJKMGGGJKM 
+
+# extreme challenge 42
+BBCCCMI.DDLMIAA.LNEEJFFNGGJK..HHHK.. 
+
+# extreme challenge 43
+..GBBJ..GH.JAAGH.JFCCC..FDDI..EE.I.. 
+
+# extreme challenge 44
+F...JKFBBBJKAAH.JLG.HCCLGDDI..EEEI.. 
+
+# extreme challenge 45
+G.BBK.GCCCK.AAHIL.DDHIL....JEE...JFF 
+
+# extreme challenge 46
+..JBBB..JKCC.AAK...IDDLM.IFFLMGGHHLM F0 A5
+
+# extreme challenge 47
+GBBB.KG.HCCKAAHI.L.DDI.L...JEEFFFJ.. 
+
+# extreme challenge 48
+BB.IJ.CCCIJ.AA.IK.G.DDK.G.HEE.FFH... 
+
+# extreme challenge 49
+...IBB..HICCAAHJKLDD.JKLGEEEKMGFFF.M J0 F3
+
+# extreme challenge 50
+BBHCC.G.H.J.GAA.J.GDDDJ....I..EE.IFF 
+
+# extreme challenge 51
+BBB.JLCC..JLAA..KMGHDDKMGHIEEMFFI... 
+
+# extreme challenge 52
+.GBBKL.GHIKLAAHI.L..HJCCFDDJ..FEEE.. 
+
+# extreme challenge 53
+F..H.IFBBH.IAAGH.J..GCCJ..G....DD.EE G1 H3
+
+# extreme challenge 54
+BBCCCMDDK..MI.KAAMI..LEEJ..LFFJGGHHH C1 G5
+
+# extreme challenge 55
+BBBKCC...KDDAAJK.MI.JEEMI.FFLNGGHHLN 
+
+# extreme challenge 56
+HBBCCCHDDD.LAAJ..L.IJEEM.IFFKMGGG.K. 
+
+# extreme challenge 57
+E.BBBJE..GIJEAAGI.CCCHI...FH....FDD. 
+
+# extreme challenge 58
+BBF..JE.FCCJE.AAHK...GHKDDDGI....GI. A1 J6
+
+# extreme challenge 59
+GBBB..GCCC.KAAHI.KDDHI.K...JEE.FFJ.. 
+
+# extreme challenge 60
+BBH...F.HCCCFAAIJKDD.IJKG..I.LGEEE.L 
+
+# extreme challenge 61
+.FBBKL.FGIKLAAGI.LE..JCCE.HJ..E.HDDD 
+
+# extreme challenge 62
+F.BBJLFCCCJLAAGHKMDDGHKM...IEE...I.. 
+
+# extreme challenge 63
+.BBBCC..JDDMAAJ..MIEEFFMIGGKL.HH.KL. 
+
+# extreme challenge 64
+FHBBKLFHCCKLAAI.KMG.IDDMG..J..EEEJ.. 
+
+# extreme challenge 65
+BBJ.CCDDJ..MAAK..MI.KEENIFFL.NIGGL.. 
+
+# extreme challenge 66
+BBHI.KG.HI.KGAAI.LG.CCCLDD..J.EEFFJ. 
+
+# extreme challenge 67
+GBBB.LG.HCCLAAHIKM.DDIKM...JEE...J.. 
+
+# extreme challenge 68
+BBCCM.DD..M.J.AAMNJ.FFFNJ.KLGGHHKLII 
+
+# extreme challenge 69
+BBBHJ.CCCHJ.FAAIJ.F.GIDD..GEEK.....K 
+
+# extreme challenge 70
+..JBBB..JKCC.AAK...IDDL..IFFL.GGHHL. 
+
+# extreme challenge 71
+BBBJ....IJCCAAI..KH.IDDKHEEE.LFFGG.L 
+
+# extreme challenge 72
+HBBL..H.JLCCI.JAAMI.KDDM..KEENFFGG.N 
+
+# extreme challenge 73
+BBH..J..H..J..HAAJG..ICCGDDI...EEI.. 
+
+# extreme challenge 74
+.GBBBJ.G...J.AAI.KCCHI.KF.HDDKF.HEEE 
+
+# extreme challenge 75
+.GBBJL.GHIJLAAHIKMFCC.KMF....MFDDEEE G0 L4
+
+# extreme challenge 76
+F.BBJKFCCCJKAAGHJLDDGH.L...IEE...I.. 
+
+# extreme challenge 77
+GBBB..GCCCK.AAHIKLDDHIKL...JEE.FFJ.. 
+
+# extreme challenge 78
+BBCCMNIDDLMNIAAL..EEKL...JK....JGGHH 
+
+# extreme challenge 79
+BBB.JLCC..JLAA..K.GHDDK.GHIEE.FFI... 
+
+# extreme challenge 80
+BBBIJ.CCCIJLAA.IKLG.DDKMG.HEEMFFH... E0 L3
+
+# extreme challenge 81
+BBCCC.I..KDDIAAK.L..JEELFFJ..MGGJHHM 
+
+# extreme challenge 82
+HBBJCCH.IJ.LAAI.KLDDEEKL......FFFGG. 
+
+# extreme challenge 83
+BBBKLMHCCKLMH.AALMDDJ....IJEE..IFFGG 
+
+# extreme challenge 84
+...IBB..HICCAAHJKLDD.JKLGEEEKMG.FF.M 
+
+# extreme challenge 85
+BB.IK.DDDIK.GAAJK.G.HJEE..HFFL.....L 
+
+# extreme challenge 86
+..GBBB..GI..AAHI.JCCHDDJ.FEE.J.F.... 
+
+# extreme challenge 87
+..IBBBCCI..MGHAALMGHDDLM..JKEEFFJK.. 
+
+# extreme challenge 88
+...HBB..GHCCAAGIJLDD.IJLFEEEKMF...KM 
+
+# extreme challenge 89
+HBBBLMH.CCLMAAIJL.DDIJ.....KFFGG.K.. 
+
+# extreme challenge 90
+...IBB..HICCAAHJKMDD.JKMGEEEL.GFFFL. 
+
+# extreme challenge 91
+BBJK..GIJKMNGIAAMNHCCL.NH..LDDHEEEFF 
+
+# extreme challenge 92
+.GBBBK.G...K.AAIJLCCHIJLF.HDDLF.HEEE 
+
+# extreme challenge 93
+BBBCCMDDKEEMAAKL..JFFLGGJHHH..III... 
+
+# extreme challenge 94
+FBBBJLF.G.JLAAGHK..CCHK....IDDEEEI.. K1 A4
+
+# extreme challenge 95
+GBBBK.GCCCK.AAHIL.DDHIL....JEE...JFF 
+
+# extreme challenge 96
+GBB.KLGCCCKLAAI.KMH.IDDMHEEJ..FFFJ.. 
+
+# extreme challenge 97
+GBBB.LG.HCCLAAHIKM.DDIKM...JEEFFFJ.. 
+
+# extreme challenge 98
+...HBB..GHCCAAGIJKDD.IJKFEEEJLF....L 
+
+# extreme challenge 99
+H..CCMHDDDLMAAIJL.EEIJL....KFF.GGK.. 
+
+# extreme challenge 100
+BBCC.K..IDDKAAIJ.LHEEJ.LH..JFFHGGG.. 

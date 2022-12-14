@@ -1,0 +1,302 @@
+#
+# Challenge: hard
+#
+# hard challenge 1
+BBCCK...I.KL..IAALEEIJ.LH..JFFHGGG.. 
+
+# hard challenge 2
+E.BBIJECCCIJAAFG.K..FG.K...HDD...H.. 
+
+# hard challenge 3
+FBBBJKF.GHJKAAGH.L.CCI.L...IDD...... 
+
+# hard challenge 4
+I.BBCCI.JKDDAAJKLM.EE.LMFFF..NGGHHHN 
+
+# hard challenge 5
+BBBCCM.DDEEMAAKL.NFFKL.NJGGL..JHH... 
+
+# hard challenge 6
+...H....GHBBAAGIJLCC.IJLFDDDKLF.EEK. 
+
+# hard challenge 7
+...KCCHDDKM.HAALMNIEELMNI.JFFNGGJ... 
+
+# hard challenge 8
+BBH..J..HCCJAA.I.KGDDI.KG..IEEGFFF.. 
+
+# hard challenge 9
+I.BBCCI.JKDDAAJKLM.EE.LMFFF.LN.GG..N 
+
+# hard challenge 10
+G.BB.KGCCC.KAAHI.K..HI.....JDD...JFF 
+
+# hard challenge 11
+F..IBBF..IKLGAAJKLG..JCCG.HDDMEEH..M 
+
+# hard challenge 12
+...JBB..IJCCAAI..LH.IDDLHEEEKMFFGGKM 
+
+# hard challenge 13
+GBBCCKG.HDDKAAHI.....IEEFFFIJ.....J. H0 A3
+
+# hard challenge 14
+GBBCC.G.JDDDAAJKLMHEEKLMHI.K.N.IFFFN 
+
+# hard challenge 15
+HBBJK.H.IJK.AAIJ...CCCDD...FFLGGG..L 
+
+# hard challenge 16
+EBBBIJE.F.IJAAFH....GHCCDDGH.K.....K 
+
+# hard challenge 17
+IBBCC.I.JKDDAAJK.M.EEFFMGGGL..HH.L.. 
+
+# hard challenge 18
+HBBJK.H.IJK.AAIJ...CCCDDEEEFFLGGG..L 
+
+# hard challenge 19
+HBBJK.H.IJK.AAIJ...CCCDDEEFF.LGGG..L 
+
+# hard challenge 20
+HBBB.MH.IJLMAAIJLN.CCK.N...KDDEEFF.. M1 A3
+
+# hard challenge 21
+GBBB.KGCCI.KAAHI.K..HJ.....JDDEEEFF. 
+
+# hard challenge 22
+HBBBLMH.CCLMAAIJL.DDIJ.....KFFGG.K.. 
+
+# hard challenge 23
+BBICC...IJ..AAIJ..HDDKEEHFFK.L..GG.L 
+
+# hard challenge 24
+GBBB..G..ICCGAAI.J..HDDJEEH..KFFH..K 
+
+# hard challenge 25
+BBCC..I..KDDIAAKLMIEEELM..J.L.FFJGG. 
+
+# hard challenge 26
+BB.JCCG..JDDGAAK.L..IK.LH.IEELHFFF.. 
+
+# hard challenge 27
+KBBCCNKDD..N..LAANEELMFFGGGMHHIIJJJ. 
+
+# hard challenge 28
+HBBBL.H.CCL.AAIJLMEEIJ.M...KFFGG.K.. 
+
+# hard challenge 29
+BBHCCKF.HIJKFAAIJLF.DDDLG.....G..EE. I1 A5
+
+# hard challenge 30
+BBB..J.....J..GAAJ..GICCF.HIDDF.HEEE 
+
+# hard challenge 31
+..HBBBCCH.KLG.AAKLG.IDDL..IJEE.FFJ.. K0 E5
+
+# hard challenge 32
+I.JKBBI.JKLMI.AALMCCCDDMEEFFF.GGGHH. 
+
+# hard challenge 33
+BBBCCKDDEEEKHAAJ..H.IJFF..IGGL.....L 
+
+# hard challenge 34
+BBCCCL..IDDLAAI..M..IJKMHEEJK.HFFJGG K1 H3
+
+# hard challenge 35
+BBBCCKDDEE.KAAIJ..H.IJFFHGGG........ H0 I6
+
+# hard challenge 36
+..HBBBCCH...G.AAKLG.DDKL..IJEEFFIJ.. 
+
+# hard challenge 37
+BBBICC...I...AAJKLDDDJKL..HEELFFHGG. 
+
+# hard challenge 38
+BBGCC.F.G.IJFAA.IJFDDDIJ...HEE...H.. 
+
+# hard challenge 39
+BBBCCLG..J.LGAAJ.MGHEEEM.HI.K.FFI.K. 
+
+# hard challenge 40
+..HBBBCCHJ.LGAAJKLGDDJK...IEE.FFI... 
+
+# hard challenge 41
+IBBCCNI.KDDNAAKL..J..LEEJFFM..GGGMHH 
+
+# hard challenge 42
+G.BBB.G.HIKLAAHIKL..DDKL...JEE.FFJ.. 
+
+# hard challenge 43
+BB.I.L.G.IKLFGAAKLFCCJ....HJDD..HEEE 
+
+# hard challenge 44
+BBJCCC..J..LI.JAALIDDEEL...KFF.HHK.. 
+
+# hard challenge 45
+BBCCIJ....IJAA...KFDDD.KF.GHEEF.GH.. 
+
+# hard challenge 46
+BBH.J..GH.JK.GHAAKCCCI.K...IDD.EEFF. 
+
+# hard challenge 47
+..HBBBCCHJ...AAJ..DDIEEK.GI..K.GFF.K 
+
+# hard challenge 48
+HBBCC.HDDDK.AAIJK...IJEE.FFF.L.GGG.L 
+
+# hard challenge 49
+E.HBBKE.HIJKEAAIJLFGCCJLFG...L.G.DD. 
+
+# hard challenge 50
+FG.IBBFG.IJ.FGAAJK....JKCCH..LDDHEEL 
+
+# hard challenge 51
+H.BBCCH.IJDDAAIJKL.EE.KLFFF.KM.....M 
+
+# hard challenge 52
+H.JBBBH.JCCMHAAK.M.I.KL..IEEL.FFGGL. 
+
+# hard challenge 53
+GBB.JLGCCCJLAAHIK...HIK....IDD.EEFF. 
+
+# hard challenge 54
+...HBB..GHCCAAGIJKF..IJKFDDDJL.EEE.L 
+
+# hard challenge 55
+...IBB..HICCAAHJK.DD.JK.GEEEL.G.FFL. 
+
+# hard challenge 56
+BBBHJ.F..HJ.FAAI..F.GICC..GDDKEEE..K 
+
+# hard challenge 57
+JBBCC.JEEL..AAKL....KFF.GGG.M.HHIIM. 
+
+# hard challenge 58
+BBBI.....IKLAA.JKLGCCJ.MG.HDDMEEH... 
+
+# hard challenge 59
+GBBCCKG..I.KAAHI....HIDDEEE.JLFFF.JL A1 K5
+
+# hard challenge 60
+GBBBJ.GCCCJ.AAH.K.DDHIK....IEEFFFI.. 
+
+# hard challenge 61
+.BBCCCDDD.IJAAH.IJ.GH.EE.GFFFK.....K D1 K6
+
+# hard challenge 62
+FBBIKLF.GIKL..GAALCCH.....HJDDEEEJ.. 
+
+# hard challenge 63
+J..LCCJDDL.MAAK..MEEKFFMGGGHH.III... 
+
+# hard challenge 64
+.BBB.L.CCIJLAAHIJLG.HIDDG.EEK.FFF.K. D1 H6
+
+# hard challenge 65
+GBBK.MGHIK.M.HIAAMCCJL....JLDD.EEFF. A1 H3
+
+# hard challenge 66
+HBBJCCH..JL.HAAKLMDDIKLM..IEEM.FFGG. M0 I3
+
+# hard challenge 67
+GBBBKLG.HIKLAAHI.LCC.JDD...JEE...... 
+
+# hard challenge 68
+.BBB.MH..JLMHAAJL.CCIKL...IKEE.FFGG. 
+
+# hard challenge 69
+BB.J.M.H.JLM.HAALMCCIK..G.IKDDGEEEFF 
+
+# hard challenge 70
+BBBK.MCC.K.MAA.L.MIDDL..I.JFF.GGJ... 
+
+# hard challenge 71
+BBBCCM..JDDMAAJ...IEEKL.IGGKLNHH.K.N 
+
+# hard challenge 72
+IBBCC.I.DDL.AAJKL.EEJKFFGGGK.MHHH..M 
+
+# hard challenge 73
+..GBBBCCGIJKAAHIJKF.H..LFDD..LEEE..L 
+
+# hard challenge 74
+BBBCCL..IDDLAAI.K.HEEEK.H..JFFGG.J.. A1 I5
+
+# hard challenge 75
+.FBBB..F.HCCAA.HIJ.DDDIJ..G.IK..GEEK 
+
+# hard challenge 76
+..HBBB..HICC.AAI...GDDJK.G..JKEEFFJK 
+
+# hard challenge 77
+F.I...F.IBBBGAAJ.LGH.JKLGHCCKMDDEE.M 
+
+# hard challenge 78
+EGBBJKEG.IJKFAAI.LF.H..LF.HCCCDDD... B1 I6
+
+# hard challenge 79
+BBBLM.HCCLMNHJAAMNIJKDDNI.KEE...GG.. 
+
+# hard challenge 80
+..IJBBG.IJKLGAA.KLCCDDK..HEE...HFFF. 
+
+# hard challenge 81
+G.IJBBG.IJLMHAAKLMHCCK.NDD...NEEFF.. C1 J4
+
+# hard challenge 82
+.IBBB.GI.KCCGAAK.L..JDDLH.JEELH.JFFF 
+
+# hard challenge 83
+BBB..I.EF..I.EFAAI..GHCC..GH....GDD. 
+
+# hard challenge 84
+FBBHIKF.GHIKAAGHJL.CCCJLDDD.JLEE.... 
+
+# hard challenge 85
+H.BBBLH.CCKLH.AAKMDDIJKM..IJEE.FFGG. 
+
+# hard challenge 86
+GBBCCKG..I.KAAHI....HIDDEEE.JLFF..JL 
+
+# hard challenge 87
+.BBB..G..I.KGAAI.KCCHJ.K..HJDD.FF... 
+
+# hard challenge 88
+BBBCCM..JDDMAAJK..I..KEEIFF.LN..HHLN 
+
+# hard challenge 89
+FBBB.KF..I.KAA.IJLGCCIJLG.HDDDEEH... 
+
+# hard challenge 90
+FBBH..F.GH..AAGH....GDDJ....IJ.EE.IJ 
+
+# hard challenge 91
+FBBBJ.FCCCJ.AAGHK.DDGHK....IEE...I.. 
+
+# hard challenge 92
+GBBK..G.IKCCH.IAALH.J..L..JDDMEEFFFM 
+
+# hard challenge 93
+BBICC.EEI.K.HAA.K.HFFFK.H..J.....JGG 
+
+# hard challenge 94
+BBHCC.DDH.J.GAA.JKGEEEJKG..I.....IFF 
+
+# hard challenge 95
+H.BBCCH.IDDDAAI.KL...JKLEEEJKM.FFGGM 
+
+# hard challenge 96
+I..BBBICCDDLAAJ..L..JEEL..JKGGHHHK.. 
+
+# hard challenge 97
+F.HBBBF.HICCFAAIJK.G..JK.GDDJLEEE..L 
+
+# hard challenge 98
+GH.BBBGHCCJKGHAAJKDDI.JL..IEELFFF..L 
+
+# hard challenge 99
+G...J.GBBBJ.AAHIJ...HICC.DDD.K..FF.K 
+
+# hard challenge 100
+F.I...F.IBBBGAAJ..GH.JKLGHCCKLDDEEEL F0 E6
